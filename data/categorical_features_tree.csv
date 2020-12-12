@@ -1,0 +1,1461 @@
+MSZoning,Street,Alley,LotShape,LandContour,Utilities,LotConfig,LandSlope,BldgType,HouseStyle,RoofStyle,RoofMatl,Exterior1st,Exterior2nd,MasVnrType,Foundation,Heating,HeatingQC,CentralAir,Electrical,KitchenQual,PavedDrive,PoolQC,Fence,MiscFeature,SaleType,SaleCondition,is_attached_garage
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,FR2,Gtl,1Fam,1Story,Gable,CompShg,MetalSd,MetalSd,None,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,1Fam,2Story,Gable,CompShg,Wd Sdng,Wd Shng,None,BrkTil,GasA,Gd,Y,SBrkr,Gd,Y,,,,WD,Abnorml,
+RL,Pave,,IR1,Lvl,AllPub,FR2,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,VinylSd,VinylSd,None,Wood,GasA,Ex,Y,SBrkr,TA,Y,,MnPrv,Shed,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,Stone,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,1Fam,2Story,Gable,CompShg,HdBoard,HdBoard,Stone,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,,Shed,WD,Normal,Attchd
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,BrkFace,Wd Shng,None,BrkTil,GasA,Gd,Y,FuseF,TA,Y,,,,WD,Abnorml,
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,2fmCon,1.5Unf,Gable,CompShg,MetalSd,MetalSd,None,BrkTil,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,HdBoard,HdBoard,None,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Hip,CompShg,WdShing,Wd Shng,Stone,PConc,GasA,Ex,Y,SBrkr,Ex,Y,,,,New,Partial,BuiltIn
+RL,Pave,,IR2,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,HdBoard,Plywood,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,Stone,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,New,Partial,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Hip,CompShg,MetalSd,MetalSd,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,Y,,GdWo,,WD,Normal,Attchd
+RM,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,1.5Unf,Gable,CompShg,Wd Sdng,Wd Sdng,None,BrkTil,GasA,Ex,Y,FuseA,TA,Y,,GdPrv,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,CulDSac,Gtl,1Fam,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,BrkFace,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,,Shed,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,Duplex,1Story,Gable,CompShg,MetalSd,MetalSd,None,Slab,GasA,TA,Y,SBrkr,TA,Y,,,Shed,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,BrkFace,Plywood,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,MnPrv,,COD,Abnorml,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,New,Partial,BuiltIn
+RM,Pave,Grvl,Reg,Bnk,AllPub,Inside,Gtl,1Fam,1.5Unf,Gable,CompShg,Wd Sdng,Wd Sdng,None,PConc,GasA,Ex,Y,FuseF,Gd,N,,GdPrv,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,TwnhsE,1Story,Gable,CompShg,CemntBd,CmentBd,None,PConc,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,Plywood,Plywood,None,CBlock,GasA,Ex,Y,SBrkr,Gd,Y,,MnPrv,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,Stone,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,None,CBlock,GasA,TA,Y,SBrkr,Gd,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,Stone,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,CulDSac,Gtl,1Fam,1Story,Gable,CompShg,MetalSd,MetalSd,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RM,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,MetalSd,MetalSd,None,BrkTil,GasA,Fa,N,SBrkr,Fa,Y,,,,WD,Normal,
+C (all),Pave,Pave,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gambrel,CompShg,BrkFace,BrkFace,None,BrkTil,GasA,TA,N,SBrkr,TA,N,,MnPrv,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,CulDSac,Gtl,1Fam,1Story,Gable,CompShg,HdBoard,HdBoard,None,CBlock,GasA,Gd,Y,SBrkr,Gd,Y,,MnPrv,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,BrkFace,BrkFace,None,CBlock,GasA,Gd,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,TwnhsE,1Story,Hip,CompShg,MetalSd,MetalSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Ex,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,Stone,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,BuiltIn
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,Wd Sdng,Wd Sdng,BrkFace,CBlock,GasA,Gd,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,None,CBlock,GasA,TA,Y,SBrkr,Gd,Y,,,,WD,Abnorml,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,Duplex,1Story,Gable,CompShg,AsbShng,Plywood,None,PConc,GasA,TA,N,FuseP,Fa,N,,,,WD,AdjLand,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,BrkFace,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,GdWo,,WD,Abnorml,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,None,CBlock,GasA,Gd,Y,SBrkr,TA,P,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,CulDSac,Gtl,1Fam,SFoyer,Gable,CompShg,HdBoard,HdBoard,None,CBlock,GasA,Gd,Y,SBrkr,Gd,Y,,MnPrv,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,CulDSac,Gtl,1Fam,1Story,Hip,CompShg,VinylSd,VinylSd,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,MnPrv,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,BrkFace,Wd Sdng,None,CBlock,GasA,Ex,Y,FuseA,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,TwnhsE,1Story,Hip,CompShg,MetalSd,MetalSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Ex,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,CulDSac,Gtl,1Fam,1.5Fin,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Abnorml,Attchd
+FV,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,2fmCon,2Story,Gable,CompShg,MetalSd,MetalSd,None,BrkTil,GasA,Gd,Y,SBrkr,TA,N,,,,New,Partial,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,HdBoard,HdBoard,None,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,MnPrv,,WD,Normal,Attchd
+RL,Pave,,IR2,Lvl,AllPub,Corner,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Gd,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,None,PConc,GasA,TA,Y,SBrkr,TA,Y,,MnPrv,Shed,WD,Normal,
+RM,Grvl,,IR2,Bnk,AllPub,Corner,Mod,Duplex,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,None,CBlock,GasA,TA,N,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,IR1,Low,AllPub,Inside,Gtl,1Fam,1Story,Gable,WdShngl,WdShing,Wd Shng,None,CBlock,GasA,Gd,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Bnk,AllPub,Inside,Mod,1Fam,SLvl,Gable,CompShg,MetalSd,MetalSd,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,MnPrv,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,HdBoard,Plywood,BrkFace,CBlock,GasA,Gd,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+FV,Pave,Pave,Reg,Lvl,AllPub,Inside,Gtl,Twnhs,2Story,Gable,CompShg,MetalSd,MetalSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Abnorml,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR2,HLS,AllPub,CulDSac,Gtl,1Fam,2Story,Hip,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,New,Partial,BuiltIn
+RL,Pave,,Reg,Bnk,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,HdBoard,HdBoard,None,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,MnPrv,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,New,Partial,
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2.5Unf,Gable,CompShg,MetalSd,MetalSd,None,BrkTil,GasA,TA,N,SBrkr,Fa,N,,,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,TwnhsE,1Story,Gable,CompShg,VinylSd,VinylSd,Stone,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RM,Pave,,IR1,Bnk,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,Stucco,Stucco,None,BrkTil,GasA,Gd,Y,SBrkr,TA,Y,,GdPrv,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,GdPrv,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,BuiltIn
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,Plywood,Plywood,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RM,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Gable,CompShg,MetalSd,MetalSd,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,1.5Fin,Gable,CompShg,BrkFace,AsbShng,None,CBlock,GasW,TA,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,Plywood,Plywood,BrkFace,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Gable,CompShg,HdBoard,Plywood,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Gd,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,BrkFace,CBlock,GasA,Gd,Y,SBrkr,TA,Y,,GdWo,,WD,Normal,Attchd
+RM,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,2Story,Gambrel,CompShg,VinylSd,VinylSd,None,CBlock,GasA,Gd,N,SBrkr,TA,Y,,,,WD,Normal,
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,Twnhs,SLvl,Gable,CompShg,CemntBd,CmentBd,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,GdWo,,WD,Normal,BuiltIn
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,None,CBlock,GasA,Ex,Y,FuseA,TA,Y,,,,WD,Normal,
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,MnPrv,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,Duplex,1Story,Hip,CompShg,HdBoard,HdBoard,None,CBlock,GasA,TA,N,SBrkr,TA,Y,,,,WD,Normal,
+RM,Pave,Grvl,Reg,Lvl,AllPub,Corner,Gtl,1Fam,2Story,Gable,CompShg,Wd Sdng,Wd Sdng,None,PConc,GasA,Gd,Y,SBrkr,TA,Y,,MnPrv,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,CBlock,GasA,TA,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RM,Pave,,Reg,Lvl,AllPub,FR2,Gtl,TwnhsE,1Story,Hip,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,Stone,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,MetalSd,MetalSd,BrkCmn,CBlock,GasA,Gd,Y,SBrkr,TA,Y,,,,COD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,SLvl,Gable,CompShg,HdBoard,HdBoard,BrkFace,PConc,GasA,Gd,Y,SBrkr,TA,Y,,,Shed,WD,Normal,BuiltIn
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,2Story,Hip,CompShg,HdBoard,HdBoard,BrkFace,CBlock,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR2,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,BuiltIn
+FV,Pave,Pave,Reg,Lvl,AllPub,Corner,Gtl,TwnhsE,2Story,Gable,CompShg,VinylSd,VinylSd,Stone,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,New,Partial,
+C (all),Pave,,IR1,Lvl,AllPub,Corner,Gtl,1Fam,1.5Fin,Hip,CompShg,Plywood,Plywood,None,CBlock,GasA,TA,N,SBrkr,Fa,N,,MnPrv,,ConLD,Abnorml,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,BrkFace,Wd Sdng,None,Slab,GasA,TA,Y,FuseA,TA,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,HdBoard,HdBoard,BrkCmn,CBlock,GasA,TA,Y,SBrkr,TA,Y,,GdWo,,WD,Abnorml,Attchd
+RL,Pave,Grvl,IR1,HLS,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,None,BrkTil,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,
+C (all),Pave,,Reg,Lvl,AllPub,Corner,Gtl,2fmCon,2.5Unf,Hip,CompShg,MetalSd,MetalSd,None,BrkTil,GasW,Ex,N,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR2,Lvl,AllPub,Corner,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Gd,Y,SBrkr,TA,Y,,,Shed,WD,Normal,BuiltIn
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,HLS,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,HdBoard,HdBoard,BrkFace,CBlock,GasA,TA,Y,FuseF,TA,P,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,None,BrkTil,GasA,Fa,N,SBrkr,TA,Y,,,Shed,COD,Abnorml,Basment
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,Plywood,Plywood,None,CBlock,GasA,Fa,Y,SBrkr,TA,Y,,,Shed,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,Plywood,Plywood,BrkFace,PConc,GasA,Gd,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,HdBoard,HdBoard,BrkFace,CBlock,GasA,TA,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Bnk,AllPub,Inside,Gtl,Duplex,1Story,Gable,CompShg,HdBoard,HdBoard,None,Slab,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Alloca,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RM,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,1.5Fin,Gable,CompShg,Stucco,Stucco,BrkFace,PConc,GasA,Ex,Y,FuseF,TA,Y,,,,WD,Normal,
+FV,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Hip,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RM,Pave,Grvl,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Mansard,CompShg,VinylSd,VinylSd,None,BrkTil,GasA,Gd,Y,SBrkr,TA,N,,,Shed,WD,Normal,
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,None,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Partial,
+RM,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,1.5Fin,Gable,CompShg,CemntBd,CmentBd,None,CBlock,GasW,TA,N,FuseF,Fa,N,,,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,Plywood,Plywood,BrkFace,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,MnPrv,,COD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,None,CBlock,GasA,Gd,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,SLvl,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,BuiltIn
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,Stone,PConc,GasA,Ex,Y,SBrkr,Ex,Y,,,,New,Partial,BuiltIn
+RL,Pave,,Reg,Bnk,AllPub,Corner,Gtl,1Fam,1Story,Hip,CompShg,Wd Sdng,Wd Sdng,BrkFace,CBlock,GasA,TA,Y,SBrkr,Gd,Y,,MnPrv,,COD,Abnorml,Basment
+RL,Pave,,IR1,Lvl,AllPub,Inside,Mod,1Fam,2Story,Gambrel,CompShg,Wd Sdng,Wd Sdng,None,CBlock,GasA,Ex,Y,SBrkr,Gd,Y,,MnPrv,,WD,Normal,
+FV,Pave,Pave,Reg,Lvl,AllPub,Corner,Gtl,TwnhsE,2Story,Gable,CompShg,MetalSd,MetalSd,BrkFace,PConc,GasA,Gd,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Gd,Y,SBrkr,TA,Y,,,,New,Partial,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,2Story,Hip,CompShg,Plywood,Plywood,None,PConc,GasA,Gd,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,New,Partial,Attchd
+RL,Pave,,IR1,Low,AllPub,CulDSac,Sev,1Fam,SLvl,Flat,Metal,Plywood,Plywood,None,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,AsbShng,AsbShng,None,PConc,GasA,Gd,Y,SBrkr,TA,P,,MnPrv,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Hip,CompShg,MetalSd,MetalSd,BrkFace,CBlock,GasA,Gd,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,TwnhsE,1Story,Gable,CompShg,Plywood,Plywood,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,CulDSac,Gtl,1Fam,1Story,Gable,CompShg,HdBoard,HdBoard,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,2fmCon,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,None,CBlock,GasA,Gd,N,SBrkr,TA,N,,,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,TwnhsE,1Story,Gable,CompShg,Plywood,Plywood,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RM,Pave,,IR1,Bnk,AllPub,Inside,Gtl,1Fam,1.5Unf,Gable,CompShg,WdShing,Wd Sdng,None,BrkTil,GasA,Ex,Y,SBrkr,TA,N,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,Plywood,Plywood,BrkFace,CBlock,GasA,TA,Y,FuseA,Ex,Y,,MnWw,,WD,Abnorml,2Types
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,2Story,Gable,CompShg,MetalSd,MetalSd,BrkFace,CBlock,GasA,Ex,Y,SBrkr,Gd,Y,,GdPrv,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,BuiltIn
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Gable,CompShg,MetalSd,MetalSd,None,CBlock,GasA,Gd,Y,SBrkr,Gd,Y,,,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,Plywood,Plywood,None,CBlock,GasA,Gd,Y,SBrkr,TA,Y,,MnPrv,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,Plywood,Plywood,BrkFace,PConc,GasA,Gd,Y,SBrkr,TA,Y,,MnPrv,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Gable,CompShg,MetalSd,MetalSd,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,Duplex,1Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,CBlock,GasA,Gd,Y,SBrkr,TA,Y,,,,WD,Family,2Types
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,GdPrv,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,MnPrv,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,FR2,Gtl,1Fam,1Story,Gable,CompShg,HdBoard,HdBoard,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,ConLI,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,1.5Fin,Gable,CompShg,BrkFace,Wd Sdng,None,CBlock,GasA,Fa,Y,SBrkr,TA,Y,,MnPrv,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,Duplex,1Story,Gable,CompShg,HdBoard,HdBoard,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,ConLI,Abnorml,
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,Twnhs,2Story,Gable,CompShg,VinylSd,VinylSd,Stone,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,
+RM,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,None,BrkTil,GasA,TA,Y,FuseA,TA,Y,,,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,CulDSac,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,BuiltIn
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,MetalSd,MetalSd,None,BrkTil,GasA,Gd,Y,FuseA,TA,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Gable,CompShg,HdBoard,HdBoard,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,MnPrv,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,VinylSd,VinylSd,Stone,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,New,Partial,Attchd
+RL,Pave,,IR1,Lvl,AllPub,CulDSac,Gtl,1Fam,2Story,Gable,CompShg,HdBoard,HdBoard,BrkFace,CBlock,GasA,Gd,Y,SBrkr,TA,Y,,GdWo,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Flat,CompShg,BrkFace,Plywood,None,CBlock,GasA,Gd,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RM,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,None,BrkTil,GasA,TA,Y,FuseA,TA,Y,,,,WD,Family,
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,None,BrkTil,Grav,Fa,N,FuseF,TA,N,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,Wd Sdng,Wd Sdng,None,CBlock,GasA,TA,Y,FuseF,TA,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Ex,Y,,,,New,Partial,BuiltIn
+FV,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,GdWo,,WD,Normal,Attchd
+RL,Pave,,IR1,HLS,AllPub,Corner,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,New,Partial,Attchd
+RL,Pave,,IR1,Lvl,AllPub,CulDSac,Gtl,1Fam,1Story,Gable,CompShg,Plywood,Plywood,None,PConc,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Ex,Y,,,,WD,Normal,BuiltIn
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,New,Partial,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1.5Unf,Gable,CompShg,MetalSd,MetalSd,None,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,MnPrv,,WD,Normal,
+RM,Pave,Pave,Reg,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Gable,CompShg,MetalSd,MetalSd,None,BrkTil,GasA,Gd,Y,FuseA,Gd,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,2fmCon,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,None,BrkTil,GasA,Gd,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,Wd Sdng,Wd Sdng,None,CBlock,GasA,Ex,Y,FuseA,TA,Y,,GdWo,,COD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,Stone,PConc,GasA,Ex,Y,SBrkr,Ex,Y,,,,New,Partial,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Hip,WdShake,Plywood,Plywood,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RM,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,MetalSd,MetalSd,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Hip,CompShg,BrkFace,Plywood,Stone,CBlock,GasA,Fa,Y,SBrkr,TA,P,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,TwnhsE,2Story,Gable,CompShg,HdBoard,HdBoard,None,PConc,GasA,Gd,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,WdShing,Wd Shng,BrkCmn,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,COD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,Plywood,Stone,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Gable,CompShg,WdShing,Wd Shng,None,CBlock,GasA,TA,Y,SBrkr,Gd,Y,,MnPrv,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,1Fam,2Story,Gable,CompShg,Plywood,Plywood,BrkFace,PConc,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,MetalSd,MetalSd,None,CBlock,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,CulDSac,Gtl,1Fam,1Story,Hip,CompShg,VinylSd,VinylSd,Stone,PConc,GasA,Ex,Y,SBrkr,Ex,Y,,,,New,Partial,Attchd
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,None,CBlock,GasA,TA,Y,SBrkr,TA,N,,,,WD,Normal,
+FV,Pave,,Reg,Lvl,AllPub,Inside,Gtl,Twnhs,2Story,Gable,CompShg,MetalSd,MetalSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,Stucco,Stucco,None,BrkTil,GasA,Gd,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,Wd Sdng,Wd Sdng,BrkFace,PConc,GasA,Ex,Y,SBrkr,TA,Y,,MnPrv,,WD,Normal,Attchd
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,N,,,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,AsbShng,Plywood,None,PConc,GasA,Gd,Y,SBrkr,TA,Y,,MnPrv,,WD,Normal,Attchd
+RM,Pave,,IR2,Lvl,AllPub,Inside,Gtl,1Fam,2.5Fin,Gable,WdShngl,Wd Sdng,Wd Sdng,None,BrkTil,GasA,Ex,Y,SBrkr,Ex,Y,,GdPrv,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,CulDSac,Gtl,1Fam,SLvl,Gable,CompShg,HdBoard,HdBoard,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,GdPrv,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,HdBoard,HdBoard,None,CBlock,GasA,Ex,Y,SBrkr,TA,N,,MnPrv,,WD,Normal,
+RL,Pave,,Reg,Bnk,AllPub,Inside,Gtl,Duplex,SFoyer,Gable,CompShg,Plywood,Plywood,Stone,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Alloca,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,TwnhsE,1Story,Gable,CompShg,CemntBd,CmentBd,None,PConc,GasA,Ex,Y,SBrkr,Ex,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Bnk,AllPub,Inside,Mod,1Fam,2Story,Hip,CompShg,BrkFace,BrkFace,None,CBlock,GasA,TA,Y,SBrkr,Gd,Y,,,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,CulDSac,Gtl,1Fam,2Story,Gable,CompShg,HdBoard,HdBoard,BrkFace,CBlock,GasA,Gd,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,Twnhs,2Story,Gable,CompShg,VinylSd,VinylSd,Stone,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,HdBoard,HdBoard,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,FR2,Gtl,Twnhs,2Story,Gable,CompShg,Plywood,Brk Cmn,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,CemntBd,CmentBd,Stone,PConc,GasA,Ex,Y,SBrkr,Ex,Y,,,,New,Partial,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,2Story,Gable,CompShg,Stucco,Stucco,None,PConc,GasA,Gd,Y,SBrkr,Gd,Y,Ex,GdPrv,,WD,Abnorml,
+RM,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,2.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,None,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,MnPrv,,WD,Abnorml,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Ex,Y,,,,WD,Normal,Attchd
+RM,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,Plywood,Plywood,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,MnPrv,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,1.5Fin,Gable,CompShg,MetalSd,MetalSd,None,BrkTil,GasA,Gd,Y,SBrkr,TA,Y,,,,COD,Normal,Attchd
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,TwnhsE,1Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RM,Pave,Grvl,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,AsbShng,AsbShng,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,MnWw,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Gable,CompShg,HdBoard,HdBoard,None,PConc,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,CulDSac,Gtl,1Fam,1Story,Gable,CompShg,HdBoard,HdBoard,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,None,PConc,GasA,TA,Y,SBrkr,TA,Y,,GdWo,,WD,Normal,Attchd
+RL,Pave,,IR1,Low,AllPub,Inside,Mod,1Fam,2Story,Gable,CompShg,Plywood,Plywood,BrkFace,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,HdBoard,HdBoard,Stone,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,MnPrv,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,Stucco,Stucco,None,CBlock,GasA,TA,N,FuseA,TA,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+FV,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,New,Partial,Attchd
+RL,Pave,,IR2,Lvl,AllPub,CulDSac,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,FR2,Gtl,1Fam,2Story,Gable,CompShg,HdBoard,HdBoard,BrkFace,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,MnPrv,Shed,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,HdBoard,HdBoard,BrkFace,CBlock,GasA,TA,Y,SBrkr,Gd,Y,,MnPrv,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RM,Pave,Grvl,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,MetalSd,MetalSd,None,CBlock,GasA,Fa,N,SBrkr,TA,Y,,,,WD,Family,
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,1Fam,1.5Fin,Gable,CompShg,VinylSd,VinylSd,BrkFace,CBlock,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,TwnhsE,1Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,New,Partial,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,New,Partial,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,ConLI,Normal,BuiltIn
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,MnPrv,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,FR2,Gtl,1Fam,1Story,Gable,CompShg,HdBoard,HdBoard,None,CBlock,GasA,Gd,Y,SBrkr,TA,Y,,,,WD,Abnorml,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Ex,Y,,,,WD,Normal,Attchd
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,Twnhs,2Story,Gable,CompShg,HdBoard,HdBoard,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,COD,Abnorml,
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Abnorml,Attchd
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,Twnhs,2Story,Gable,CompShg,HdBoard,HdBoard,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,FR2,Gtl,1Fam,1Story,Gable,CompShg,HdBoard,HdBoard,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,MnPrv,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,TwnhsE,1Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,MetalSd,MetalSd,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Ex,Y,,,,WD,Normal,Attchd
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,Twnhs,2Story,Gable,CompShg,HdBoard,HdBoard,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Gable,CompShg,HdBoard,HdBoard,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,MnPrv,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,BuiltIn
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,TwnhsE,2Story,Gable,CompShg,HdBoard,HdBoard,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,FR2,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,CulDSac,Gtl,1Fam,2Story,Gable,CompShg,HdBoard,HdBoard,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,New,Partial,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,VinylSd,VinylSd,None,CBlock,GasA,TA,Y,FuseA,TA,Y,,MnPrv,,WD,Normal,
+FV,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,Stone,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,None,CBlock,GasA,Gd,Y,SBrkr,Gd,Y,,,,WD,Normal,
+RM,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,None,BrkTil,GasA,Gd,N,FuseA,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,TwnhsE,2Story,Gable,CompShg,Plywood,Plywood,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,BrkFace,CBlock,GasA,Gd,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RM,Pave,Grvl,Reg,Lvl,AllPub,Inside,Gtl,2fmCon,2Story,Gable,CompShg,AsbShng,AsbShng,None,Stone,GasA,Gd,N,FuseP,Fa,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,Wd Sdng,BrkFace,None,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR2,Low,AllPub,CulDSac,Sev,1Fam,1.5Fin,Gable,CompShg,Wd Sdng,HdBoard,BrkCmn,CBlock,GasA,Gd,Y,SBrkr,Gd,Y,,,Shed,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,Wd Sdng,Plywood,None,CBlock,GasA,Ex,Y,SBrkr,Fa,Y,,GdWo,Shed,WD,Normal,
+RM,Pave,,IR1,HLS,AllPub,Inside,Mod,TwnhsE,1Story,Hip,CompShg,VinylSd,VinylSd,Stone,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Family,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,SLvl,Hip,CompShg,HdBoard,HdBoard,BrkFace,CBlock,GasA,Ex,Y,SBrkr,Gd,Y,,MnPrv,,CWD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,MetalSd,MetalSd,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,BuiltIn
+FV,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,Stone,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Abnorml,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,BrkFace,BrkFace,None,PConc,GasA,Gd,Y,FuseA,TA,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,SLvl,Gable,CompShg,Wd Sdng,Wd Sdng,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,Y,,GdWo,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,CemntBd,CmentBd,Stone,PConc,GasA,Ex,Y,SBrkr,Ex,Y,,,,New,Partial,BuiltIn
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,1Fam,SLvl,Gable,CompShg,HdBoard,Plywood,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,Y,,GdWo,,WD,Normal,Attchd
+RM,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,None,BrkTil,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,
+RM,Pave,Grvl,IR3,Bnk,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,None,BrkTil,GasA,Gd,N,FuseP,TA,N,,,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,MetalSd,MetalSd,BrkFace,CBlock,GasA,TA,Y,SBrkr,Gd,Y,,GdPrv,,WD,Normal,Attchd
+RL,Pave,,IR1,HLS,AllPub,FR2,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Gd,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Bnk,AllPub,Inside,Mod,1Fam,2.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,None,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Hip,CompShg,HdBoard,HdBoard,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,Y,,GdPrv,,WD,Normal,Attchd
+FV,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Gd,Y,SBrkr,Gd,Y,,,,New,Partial,Attchd
+RL,Pave,,IR1,Low,AllPub,CulDSac,Sev,1Fam,1Story,Flat,Membran,Plywood,Plywood,None,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,CulDSac,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,Wd Sdng,Wd Sdng,BrkCmn,CBlock,GasA,Gd,Y,SBrkr,TA,Y,,MnPrv,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Gable,CompShg,HdBoard,ImStucc,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,None,BrkTil,GasW,Gd,N,SBrkr,Ex,Y,,,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,None,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,CemntBd,CmentBd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Ex,Y,,,,New,Partial,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Hip,CompShg,Plywood,Plywood,BrkFace,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,Plywood,Plywood,BrkFace,CBlock,GasA,Gd,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+FV,Pave,Pave,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,Stone,PConc,GasA,Gd,Y,SBrkr,Gd,Y,,,,New,Partial,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,Twnhs,1Story,Gable,CompShg,VinylSd,VinylSd,Stone,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,ConLw,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,Stone,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,New,Partial,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,TwnhsE,1Story,Gable,CompShg,Plywood,ImStucc,None,PConc,GasA,Gd,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+FV,Pave,Pave,IR1,Lvl,AllPub,Inside,Gtl,TwnhsE,2Story,Gable,CompShg,MetalSd,MetalSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,New,Partial,
+RL,Pave,,IR1,Bnk,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,None,CBlock,GasA,TA,Y,SBrkr,Gd,Y,,GdPrv,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Gable,CompShg,HdBoard,HdBoard,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,MetalSd,MetalSd,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,Y,,MnPrv,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,Wd Sdng,Wd Sdng,None,BrkTil,GasA,Ex,Y,FuseA,TA,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,New,Partial,Attchd
+RL,Pave,Grvl,Reg,Bnk,AllPub,Inside,Gtl,2fmCon,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,N,SBrkr,Fa,N,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,None,CBlock,GasA,Gd,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,1Fam,2Story,Gable,CompShg,Plywood,Plywood,BrkFace,CBlock,GasA,Fa,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,HdBoard,HdBoard,Stone,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,CulDSac,Gtl,1Fam,SLvl,Gable,CompShg,HdBoard,HdBoard,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,GdPrv,,WD,Normal,
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,None,CBlock,GasA,TA,Y,FuseA,TA,Y,,MnPrv,,WD,Normal,Attchd
+FV,Pave,Pave,IR1,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Hip,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Mansard,CompShg,HdBoard,AsphShn,BrkFace,CBlock,GasA,Gd,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,HdBoard,HdBoard,None,CBlock,GasA,Ex,Y,SBrkr,Gd,Y,,GdPrv,,WD,Family,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,2fmCon,1Story,Hip,CompShg,MetalSd,MetalSd,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR3,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,BuiltIn
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,TA,Y,SBrkr,TA,Y,,GdWo,,WD,Abnorml,Attchd
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2.5Fin,Gable,CompShg,CemntBd,CmentBd,None,BrkTil,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,CemntBd,CmentBd,Stone,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,HdBoard,Plywood,BrkFace,CBlock,GasA,Gd,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RM,Pave,Grvl,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,MetalSd,MetalSd,None,CBlock,GasA,TA,Y,FuseA,Fa,N,,MnPrv,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,None,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Ex,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,HdBoard,HdBoard,BrkFace,PConc,GasA,Gd,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,None,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,2fmCon,1.5Fin,Gable,CompShg,MetalSd,MetalSd,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,MnPrv,,WD,Normal,
+RL,Pave,,IR3,Low,AllPub,Inside,Sev,1Fam,1Story,Hip,CompShg,BrkFace,BrkFace,None,CBlock,GasW,TA,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RM,Pave,Grvl,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,Wd Sdng,Wd Sdng,None,BrkTil,GasA,Ex,Y,SBrkr,Ex,Y,,,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,1Fam,2Story,Gable,CompShg,CemntBd,CmentBd,BrkFace,CBlock,GasA,TA,Y,SBrkr,Ex,Y,,GdPrv,,WD,Normal,Attchd
+FV,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Low,AllPub,Inside,Mod,1Fam,2Story,Gable,CompShg,HdBoard,HdBoard,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,SLvl,Gable,CompShg,Plywood,Plywood,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,Stone,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,New,Partial,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,BuiltIn
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,Plywood,Plywood,BrkFace,CBlock,GasA,Ex,Y,SBrkr,Gd,Y,,MnPrv,,WD,Normal,Attchd
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,None,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,SLvl,Mansard,WdShake,Wd Sdng,Wd Sdng,BrkFace,CBlock,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,BuiltIn
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1.5Unf,Gable,CompShg,MetalSd,MetalSd,None,CBlock,GasA,Po,N,FuseF,TA,Y,,,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,CulDSac,Gtl,TwnhsE,1Story,Gable,CompShg,BrkFace,BrkFace,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,Con,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,Wd Sdng,Wd Sdng,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,Pave,IR1,Bnk,AllPub,Inside,Gtl,1Fam,2.5Unf,Gable,CompShg,Wd Sdng,Wd Shng,None,BrkTil,GasA,Gd,N,FuseA,Gd,Y,,,,WD,Normal,
+RM,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,2Story,Gable,CompShg,Wd Sdng,Wd Shng,None,PConc,GasA,TA,N,SBrkr,TA,N,,GdWo,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,Duplex,1Story,Gable,CompShg,HdBoard,HdBoard,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,None,CBlock,GasA,Fa,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RM,Pave,,Reg,Lvl,AllPub,FR3,Gtl,TwnhsE,1Story,Gable,CompShg,VinylSd,VinylSd,Stone,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Gd,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Grvl,,IR1,HLS,AllPub,Corner,Sev,2fmCon,1.5Fin,Gable,CompShg,Plywood,Plywood,None,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,,Shed,WD,Normal,Attchd
+RL,Pave,,IR1,HLS,AllPub,Corner,Gtl,1Fam,1Story,Hip,CompShg,VinylSd,VinylSd,Stone,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,None,CBlock,GasA,Ex,Y,SBrkr,Gd,Y,,,Shed,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,Wd Sdng,Wd Sdng,BrkFace,CBlock,GasA,TA,Y,FuseA,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RH,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,Wd Sdng,AsbShng,None,CBlock,GasA,Gd,Y,SBrkr,TA,N,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,Duplex,1Story,Gable,CompShg,Stucco,Stucco,BrkFace,Slab,Wall,Fa,N,FuseA,TA,Y,,,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,TwnhsE,1Story,Hip,CompShg,MetalSd,MetalSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Ex,Y,,,,WD,Normal,Attchd
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,TwnhsE,2Story,Gable,CompShg,CemntBd,CmentBd,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,MetalSd,MetalSd,None,BrkTil,GasA,Gd,Y,SBrkr,Fa,Y,,,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,CulDSac,Gtl,1Fam,1Story,Hip,CompShg,MetalSd,MetalSd,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,Gar2,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,BrkFace,CBlock,GasA,Ex,Y,FuseA,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,Twnhs,2Story,Gable,CompShg,VinylSd,Wd Shng,Stone,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,BuiltIn
+RL,Pave,,IR2,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Hip,CompShg,CemntBd,CmentBd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Ex,Y,,,,New,Partial,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,TwnhsE,1Story,Hip,CompShg,MetalSd,MetalSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Ex,Y,,,,New,Partial,Attchd
+RL,Pave,,IR1,Low,AllPub,Inside,Mod,1Fam,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,None,PConc,GasA,Gd,Y,SBrkr,Gd,Y,,,,WD,Abnorml,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,VinylSd,VinylSd,None,CBlock,GasA,TA,N,SBrkr,TA,Y,,,,ConLw,Normal,
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,None,BrkTil,GasA,Gd,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,Reg,Bnk,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,Wd Sdng,MetalSd,None,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR2,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,HdBoard,HdBoard,BrkFace,PConc,GasA,Gd,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,TwnhsE,1Story,Gable,CompShg,CemntBd,CmentBd,None,PConc,GasA,TA,Y,SBrkr,TA,Y,,MnPrv,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,SLvl,Hip,CompShg,Wd Sdng,ImStucc,BrkFace,CBlock,GasA,Ex,Y,FuseF,Gd,Y,,,,WD,Abnorml,BuiltIn
+RL,Pave,,IR1,Lvl,AllPub,CulDSac,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,CulDSac,Gtl,1Fam,SFoyer,Gable,CompShg,VinylSd,VinylSd,None,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,MnPrv,,WD,Normal,Attchd
+RL,Pave,Pave,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,MetalSd,MetalSd,None,CBlock,GasA,Gd,Y,SBrkr,TA,N,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,SFoyer,Gable,CompShg,HdBoard,HdBoard,BrkFace,Slab,GasA,Ex,Y,SBrkr,Gd,Y,,,,ConLD,Normal,BuiltIn
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,Twnhs,2Story,Gable,CompShg,HdBoard,HdBoard,BrkFace,CBlock,GasA,Gd,Y,SBrkr,Gd,Y,,,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,FR2,Gtl,1Fam,2Story,Gable,CompShg,HdBoard,HdBoard,BrkFace,PConc,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Hip,CompShg,VinylSd,VinylSd,None,CBlock,GasA,Gd,Y,FuseA,TA,Y,,,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,Plywood,Plywood,BrkFace,CBlock,GasA,Gd,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,1Fam,SLvl,Gable,Tar&Grv,Plywood,Plywood,BrkFace,CBlock,GasA,Gd,Y,SBrkr,TA,Y,,,,WD,Normal,Basment
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,HdBoard,HdBoard,BrkFace,PConc,GasA,Gd,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,None,CBlock,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,WdShing,Plywood,None,CBlock,GasA,TA,Y,SBrkr,TA,N,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,TwnhsE,1Story,Gable,CompShg,Plywood,Plywood,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,MnPrv,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,MetalSd,MetalSd,None,PConc,GasA,TA,Y,SBrkr,TA,Y,,GdWo,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,BuiltIn
+RL,Pave,,IR1,Low,AllPub,Inside,Sev,1Fam,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,None,BrkTil,GasA,Gd,N,FuseA,Fa,Y,,,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,CulDSac,Gtl,1Fam,SFoyer,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,
+FV,Pave,,IR1,Lvl,AllPub,Corner,Gtl,1Fam,2Story,Gable,CompShg,CemntBd,CmentBd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Hip,CompShg,VinylSd,VinylSd,Stone,PConc,GasA,Ex,Y,SBrkr,Ex,Y,,,,New,Partial,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,Pave,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,BrkFace,Wd Sdng,None,BrkTil,GasA,TA,Y,SBrkr,Gd,Y,,,,WD,Normal,
+FV,Pave,Pave,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,New,Partial,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RH,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,1.5Unf,Gable,CompShg,Wd Sdng,Wd Sdng,None,BrkTil,GasA,TA,N,FuseA,TA,N,,,,WD,Normal,
+RL,Pave,,IR2,Low,AllPub,Corner,Mod,1Fam,2Story,Gable,CompShg,HdBoard,HdBoard,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,TwnhsE,1Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,FR2,Gtl,1Fam,1.5Fin,Gambrel,CompShg,Wd Sdng,VinylSd,None,PConc,GasA,TA,Y,SBrkr,TA,N,,,,WD,AdjLand,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,SLvl,Hip,CompShg,MetalSd,MetalSd,BrkFace,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,GdWo,,WD,Abnorml,
+RL,Pave,,IR1,Lvl,AllPub,CulDSac,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,Stone,PConc,GasA,Ex,Y,SBrkr,Ex,Y,,,,New,Partial,BuiltIn
+RL,Pave,Grvl,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,MetalSd,MetalSd,None,BrkTil,GasA,Ex,Y,SBrkr,TA,Y,,MnPrv,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,CulDSac,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,BuiltIn
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,MetalSd,MetalSd,None,Slab,GasA,TA,Y,SBrkr,TA,Y,,MnPrv,Shed,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Gable,CompShg,WdShing,Wd Shng,None,CBlock,GasA,TA,Y,FuseA,TA,Y,,GdWo,,WD,Abnorml,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,MetalSd,MetalSd,None,CBlock,GasA,Gd,Y,FuseA,TA,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Low,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,MetalSd,MetalSd,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RM,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Gable,CompShg,MetalSd,MetalSd,None,BrkTil,GasA,Gd,Y,Mix,TA,N,,,,WD,Abnorml,
+FV,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,CemntBd,CmentBd,Stone,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR2,Lvl,AllPub,Inside,Gtl,TwnhsE,1Story,Gable,CompShg,BrkFace,BrkFace,None,PConc,GasA,Ex,Y,SBrkr,Ex,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,New,Partial,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,None,PConc,GasA,Ex,Y,SBrkr,TA,N,,GdPrv,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,2Story,Hip,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Gd,Y,SBrkr,Gd,Y,,,,WD,Abnorml,BuiltIn
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,MetalSd,MetalSd,None,PConc,GasA,Gd,Y,SBrkr,TA,Y,,,,WD,Normal,BuiltIn
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Gable,CompShg,Plywood,Plywood,None,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,GdWo,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,MetalSd,MetalSd,None,BrkTil,GasA,Ex,Y,FuseA,TA,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,Wd Sdng,Plywood,None,BrkTil,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,New,Partial,Attchd
+FV,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,Stone,PConc,GasA,Ex,Y,SBrkr,Ex,Y,,,,New,Partial,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,BrkComm,Brk Cmn,None,CBlock,GasA,TA,Y,FuseA,TA,Y,,,,COD,Abnorml,Attchd
+RL,Pave,,Reg,Bnk,AllPub,Inside,Gtl,2fmCon,1Story,Hip,CompShg,Wd Sdng,Wd Sdng,None,CBlock,GasA,TA,N,SBrkr,TA,Y,,,,WD,Normal,Attchd
+FV,Pave,,IR2,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,MetalSd,MetalSd,Stone,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,New,Partial,Attchd
+RM,Pave,Grvl,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,WdShing,Wd Shng,None,CBlock,GasA,Gd,Y,FuseA,TA,Y,,,,WD,Normal,
+RL,Pave,,IR2,Lvl,AllPub,CulDSac,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,New,Partial,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Hip,CompShg,HdBoard,HdBoard,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Hip,CompShg,Wd Sdng,Stucco,None,BrkTil,GasW,TA,N,FuseA,TA,N,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,MetalSd,MetalSd,None,BrkTil,GasA,Fa,N,FuseF,TA,P,,,,WD,AdjLand,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,None,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,Duplex,SFoyer,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Alloca,Attchd
+RL,Pave,,IR1,Lvl,AllPub,FR2,Gtl,1Fam,1Story,Gable,CompShg,CemntBd,CmentBd,Stone,CBlock,GasA,Gd,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,HLS,AllPub,Inside,Mod,1Fam,1Story,Hip,CompShg,HdBoard,HdBoard,None,CBlock,GasA,Ex,Y,FuseA,TA,N,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Gd,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,BrkFace,CBlock,GasA,Gd,Y,FuseA,TA,Y,,,,WD,Normal,Attchd
+RM,Pave,Grvl,Reg,HLS,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,HdBoard,HdBoard,None,CBlock,GasA,Gd,Y,SBrkr,TA,P,,,,WD,Normal,
+RL,Pave,,Reg,Low,AllPub,Inside,Mod,1Fam,SLvl,Gable,CompShg,Wd Sdng,Wd Sdng,BrkFace,PConc,GasA,Gd,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,MetalSd,MetalSd,None,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,New,Partial,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Gable,CompShg,HdBoard,HdBoard,None,CBlock,GasA,TA,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,Twnhs,2Story,Gable,CompShg,HdBoard,HdBoard,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,COD,Abnorml,
+RM,Pave,,IR1,Bnk,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,MetalSd,MetalSd,None,BrkTil,GasA,Gd,Y,SBrkr,TA,N,,MnPrv,,ConLD,Abnorml,
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,TwnhsE,2Story,Gable,CompShg,HdBoard,HdBoard,BrkFace,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,Twnhs,SFoyer,Gable,CompShg,CemntBd,CmentBd,None,CBlock,GasA,Gd,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,IR2,Lvl,AllPub,CulDSac,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,ConLw,Normal,Attchd
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,Stucco,Stucco,None,BrkTil,GasA,TA,Y,FuseA,TA,Y,,,,WD,Normal,
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1.5Unf,Gable,CompShg,Wd Sdng,Wd Sdng,None,PConc,GasA,Gd,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,WdShing,Stucco,None,PConc,GasA,TA,N,SBrkr,Gd,P,,MnPrv,,WD,Normal,
+RL,Pave,Grvl,Reg,Lvl,AllPub,Corner,Gtl,1Fam,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,None,BrkTil,GasA,Gd,Y,SBrkr,Gd,Y,,GdPrv,Shed,ConLI,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,VinylSd,VinylSd,Stone,PConc,GasA,Ex,Y,SBrkr,Ex,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,Duplex,1Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,CBlock,GasA,TA,N,FuseF,Fa,Y,,,,WD,Normal,
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,MetalSd,MetalSd,None,PConc,GasA,TA,Y,SBrkr,TA,P,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,TwnhsE,1Story,Gable,CompShg,WdShing,Wd Shng,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,New,Partial,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Hip,CompShg,Wd Sdng,Wd Sdng,None,CBlock,GasA,Fa,Y,SBrkr,TA,Y,,MnPrv,,COD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Gable,CompShg,BrkFace,Plywood,None,CBlock,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Gd,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RM,Pave,,Reg,Bnk,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,MetalSd,MetalSd,None,BrkTil,GasA,TA,Y,SBrkr,TA,N,,,,WD,Normal,
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,MetalSd,MetalSd,None,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,Wd Sdng,Wd Sdng,None,BrkTil,GasA,Ex,Y,FuseA,Gd,N,,,,WD,Normal,
+RL,Pave,,IR1,Low,AllPub,Inside,Mod,1Fam,1Story,Gable,WdShngl,Plywood,Plywood,None,CBlock,GasA,TA,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,1Fam,2Story,Hip,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+FV,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,Duplex,1Story,Gable,CompShg,Plywood,Plywood,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Family,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,HdBoard,HdBoard,BrkFace,CBlock,GasA,Fa,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RM,Pave,Grvl,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,AsbShng,AsbShng,None,BrkTil,GasA,Fa,N,SBrkr,TA,Y,,,,COD,Abnorml,
+RL,Pave,,IR1,Low,AllPub,CulDSac,Mod,1Fam,1Story,Flat,Tar&Grv,Plywood,Plywood,None,CBlock,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RM,Pave,Grvl,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Hip,CompShg,Stucco,Wd Shng,None,PConc,GasA,Fa,Y,SBrkr,Gd,Y,,MnPrv,,WD,Normal,
+RL,Pave,,IR1,Bnk,AllPub,Corner,Gtl,1Fam,1.5Fin,Gable,CompShg,MetalSd,MetalSd,BrkCmn,CBlock,GasA,TA,Y,SBrkr,Gd,Y,,,,WD,Normal,
+FV,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,Stone,PConc,GasA,Ex,Y,SBrkr,TA,Y,,,,New,Partial,BuiltIn
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,Wd Sdng,Wd Sdng,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,MnPrv,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,MetalSd,MetalSd,None,CBlock,GasA,Gd,Y,SBrkr,TA,Y,,GdWo,,WD,Normal,
+RL,Pave,,IR1,HLS,AllPub,Inside,Mod,1Fam,2Story,Hip,CompShg,Stucco,Stucco,None,CBlock,GasA,Fa,Y,FuseA,TA,Y,,,,WD,Normal,
+RL,Pave,,Reg,HLS,AllPub,Inside,Mod,1Fam,1Story,Gable,CompShg,HdBoard,HdBoard,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,TwnhsE,1Story,Hip,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Flat,Tar&Grv,Plywood,Plywood,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,GdWo,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,MetalSd,MetalSd,Stone,CBlock,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,Stone,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,1Fam,2Story,Gable,CompShg,HdBoard,HdBoard,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,TwnhsE,1Story,Gable,CompShg,HdBoard,HdBoard,None,PConc,GasA,TA,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Mansard,WdShake,WdShing,Plywood,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,TwnhsE,SLvl,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,Basment
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,New,Partial,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,TwnhsE,1Story,Gable,CompShg,CemntBd,CmentBd,None,PConc,GasA,Ex,Y,SBrkr,Ex,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Hip,CompShg,HdBoard,HdBoard,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Mod,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Hip,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Ex,Y,,,,WD,Normal,BuiltIn
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,VinylSd,VinylSd,Stone,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RM,Pave,,Reg,Bnk,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,Stucco,Stucco,BrkCmn,BrkTil,GasA,TA,Y,SBrkr,TA,Y,,MnPrv,,WD,Alloca,
+RL,Pave,,IR1,Lvl,AllPub,FR2,Gtl,1Fam,1Story,Hip,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,HLS,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Ex,Y,,,,WD,Normal,Attchd
+RM,Pave,Pave,Reg,Lvl,AllPub,Corner,Gtl,1Fam,2Story,Gable,CompShg,Stucco,Stucco,None,PConc,GasA,Ex,Y,SBrkr,Ex,Y,,,,WD,Normal,Attchd
+RM,Pave,,Reg,Lvl,AllPub,FR2,Gtl,Twnhs,1Story,Hip,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Gable,CompShg,HdBoard,Plywood,None,CBlock,GasA,Gd,Y,SBrkr,Gd,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,MetalSd,MetalSd,None,CBlock,GasA,Gd,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,MetalSd,MetalSd,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,Plywood,Plywood,None,CBlock,GasA,Gd,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,2fmCon,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,None,CBlock,GasA,TA,N,FuseA,TA,N,,,,ConLD,Normal,Attchd
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,Twnhs,SFoyer,Gable,CompShg,CemntBd,CmentBd,None,CBlock,GasA,TA,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,TwnhsE,2Story,Gable,CompShg,CemntBd,CmentBd,None,PConc,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,BuiltIn
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,None,CBlock,GasA,TA,Y,FuseA,Fa,Y,,MnPrv,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Gd,Y,SBrkr,TA,Y,,,,New,Partial,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,BrkFace,Wd Sdng,None,CBlock,GasA,TA,Y,FuseA,TA,Y,,,,WD,Normal,
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,MetalSd,MetalSd,None,BrkTil,GasA,Gd,Y,FuseA,TA,Y,,,,WD,Normal,Attchd
+C (all),Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,None,CBlock,GasA,TA,N,FuseA,TA,N,,GdWo,,WD,Abnorml,
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,BrkFace,BrkFace,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,Pave,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,None,PConc,GasA,Ex,Y,SBrkr,TA,N,,GdPrv,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,HdBoard,HdBoard,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,MnPrv,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,MetalSd,MetalSd,None,CBlock,GasA,Fa,Y,SBrkr,TA,Y,,MnWw,Shed,WD,Normal,Attchd
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,Twnhs,2Story,Gable,CompShg,HdBoard,HdBoard,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,
+FV,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Gd,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Hip,CompShg,MetalSd,MetalSd,None,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,GdPrv,Shed,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,BrkFace,Wd Sdng,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,GdWo,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,TwnhsE,2Story,Gable,CompShg,Plywood,Brk Cmn,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RM,Pave,Grvl,Reg,Lvl,AllPub,Inside,Gtl,Duplex,2Story,Hip,CompShg,Wd Sdng,Wd Sdng,BrkFace,CBlock,GasA,Gd,Y,SBrkr,TA,N,,,,COD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+FV,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,New,Partial,Attchd
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gambrel,CompShg,MetalSd,MetalSd,None,BrkTil,GasA,Ex,Y,SBrkr,Gd,N,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Gable,CompShg,MetalSd,MetalSd,BrkFace,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,MnPrv,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,Wd Sdng,Wd Sdng,BrkCmn,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,,Shed,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,TwnhsE,1Story,Gable,CompShg,VinylSd,VinylSd,Stone,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,New,Partial,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,Reg,Bnk,AllPub,Corner,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1.5Unf,Gable,CompShg,Wd Sdng,Wd Sdng,None,BrkTil,Grav,Fa,N,SBrkr,TA,Y,,MnPrv,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,CemntBd,CmentBd,BrkFace,CBlock,GasA,Ex,Y,SBrkr,Ex,Y,,,,New,Partial,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,1Fam,SLvl,Gable,CompShg,HdBoard,HdBoard,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,Y,,GdPrv,,COD,Abnorml,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,CulDSac,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,TA,Y,,MnPrv,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gambrel,CompShg,MetalSd,MetalSd,None,BrkTil,GasA,Ex,Y,SBrkr,Gd,Y,,MnPrv,,WD,Normal,
+RL,Pave,Grvl,Reg,Lvl,AllPub,Inside,Gtl,2fmCon,2Story,Gable,CompShg,MetalSd,MetalSd,None,BrkTil,GasA,TA,N,FuseA,TA,N,,,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,None,CBlock,GasA,Ex,Y,FuseA,TA,Y,,,,WD,Normal,Attchd
+RM,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,1.5Fin,Gable,CompShg,CemntBd,CmentBd,None,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,IR1,Bnk,AllPub,Inside,Gtl,1Fam,2Story,Hip,CompShg,CemntBd,CmentBd,Stone,PConc,GasA,Ex,Y,SBrkr,Ex,Y,,,,New,Partial,BuiltIn
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+FV,Pave,Pave,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,Wd Sdng,Wd Sdng,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Hip,CompShg,VinylSd,VinylSd,Stone,PConc,GasA,Ex,Y,SBrkr,Ex,Y,,,,New,Partial,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,None,BrkTil,GasA,Ex,Y,SBrkr,TA,N,,,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,CulDSac,Gtl,1Fam,1Story,Hip,CompShg,Wd Sdng,Stone,,PConc,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Alloca,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,SLvl,Gable,CompShg,HdBoard,HdBoard,BrkFace,CBlock,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Abnorml,Attchd
+RM,Pave,,IR1,Lvl,AllPub,FR3,Gtl,1Fam,2Story,Gable,CompShg,Wd Sdng,Wd Sdng,None,BrkTil,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,None,Slab,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,Reg,Low,AllPub,Inside,Mod,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,None,Slab,GasA,Fa,N,FuseF,Fa,N,,,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,2fmCon,2Story,Gable,CompShg,MetalSd,MetalSd,None,CBlock,GasA,TA,Y,SBrkr,TA,N,,,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,CulDSac,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,FR2,Gtl,1Fam,1Story,Hip,CompShg,MetalSd,MetalSd,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,MnWw,,COD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,Plywood,Plywood,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,MnPrv,Shed,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Ex,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,FR2,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,BuiltIn
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RH,Pave,,Reg,Lvl,AllPub,Inside,Gtl,TwnhsE,SFoyer,Gable,CompShg,MetalSd,MetalSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,New,Partial,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,1Fam,1.5Fin,Gable,CompShg,HdBoard,HdBoard,BrkFace,PConc,GasA,Gd,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Bnk,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,BrkFace,Wd Sdng,None,BrkTil,GasA,Ex,Y,FuseA,TA,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,SFoyer,Gable,CompShg,VinylSd,VinylSd,None,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,
+RM,Pave,,IR1,HLS,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,MetalSd,MetalSd,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,MnPrv,,WD,Normal,
+FV,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,BuiltIn
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,TwnhsE,1Story,Gable,CompShg,Plywood,Plywood,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,COD,Abnorml,Attchd
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,BrkFace,BrkFace,None,CBlock,GasA,Gd,Y,FuseA,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,Stone,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,None,CBlock,GasA,Ex,Y,SBrkr,Gd,N,,MnPrv,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,BuiltIn
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1.5Unf,Gable,CompShg,MetalSd,MetalSd,None,BrkTil,GasA,TA,Y,FuseA,TA,Y,,,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,None,CBlock,GasA,TA,Y,FuseA,TA,Y,,MnWw,,WD,Normal,Attchd
+C (all),Pave,,Reg,Low,AllPub,Inside,Mod,1Fam,1.5Fin,Gable,CompShg,MetalSd,MetalSd,None,CBlock,GasA,Gd,Y,SBrkr,TA,Y,,,,COD,Normal,
+RL,Pave,,IR2,HLS,AllPub,FR2,Gtl,1Fam,2Story,Gable,CompShg,HdBoard,HdBoard,None,PConc,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,TwnhsE,1Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,Wd Sdng,Wd Sdng,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Mod,1Fam,1Story,Gable,CompShg,HdBoard,HdBoard,None,CBlock,GasA,Gd,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,WdShing,Wd Shng,None,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,None,BrkTil,GasA,Ex,Y,SBrkr,TA,N,,,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,CulDSac,Gtl,1Fam,2Story,Gable,CompShg,HdBoard,HdBoard,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Bnk,AllPub,Corner,Gtl,1Fam,2Story,Gable,CompShg,Wd Sdng,Wd Sdng,None,PConc,GasA,TA,N,FuseF,Fa,Y,,,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Hip,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Ex,Y,,,,WD,Normal,BuiltIn
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Low,AllPub,Inside,Mod,1Fam,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,None,CBlock,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,BuiltIn
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,Duplex,SFoyer,Gable,CompShg,MetalSd,MetalSd,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,Duplex,1Story,Gable,CompShg,HdBoard,HdBoard,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,WdShing,Wd Shng,BrkFace,CBlock,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Abnorml,Attchd
+RL,Pave,,IR1,HLS,AllPub,Corner,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Gd,Y,SBrkr,Gd,Y,,,,New,Partial,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,SLvl,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,BuiltIn
+RL,Pave,,Reg,Lvl,AllPub,FR2,Gtl,1Fam,SLvl,Gambrel,CompShg,MetalSd,AsphShn,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,Y,,GdWo,,WD,Normal,BuiltIn
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,MetalSd,MetalSd,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,COD,Abnorml,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,None,BrkTil,GasA,Gd,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,SLvl,Gable,CompShg,VinylSd,VinylSd,BrkFace,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Abnorml,Attchd
+FV,Pave,Pave,Reg,Lvl,AllPub,Corner,Gtl,TwnhsE,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Abnorml,
+RM,Pave,Grvl,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,MetalSd,MetalSd,BrkFace,BrkTil,GasA,Ex,N,FuseF,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,CulDSac,Gtl,1Fam,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,BrkFace,CBlock,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Ex,Y,,,,New,Partial,Attchd
+RL,Grvl,,Reg,Lvl,AllPub,Inside,Gtl,Duplex,SFoyer,Gable,CompShg,HdBoard,HdBoard,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2.5Unf,Gable,CompShg,Wd Sdng,Wd Sdng,None,BrkTil,GasA,Gd,Y,SBrkr,Gd,Y,,,,WD,Normal,
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,AsbShng,AsbShng,None,BrkTil,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,New,Partial,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,Stucco,Wd Shng,None,BrkTil,GasA,Ex,Y,SBrkr,Fa,N,,MnWw,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,SFoyer,Hip,CompShg,HdBoard,HdBoard,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,IR1,Low,AllPub,Inside,Sev,1Fam,1Story,Flat,Tar&Grv,Wd Sdng,Wd Sdng,None,CBlock,GasA,Ex,Y,SBrkr,Ex,Y,,,,WD,Partial,Attchd
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,None,BrkTil,GasA,TA,Y,FuseA,TA,P,,,Shed,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,1Fam,2Story,Gable,CompShg,CemntBd,CmentBd,Stone,PConc,GasA,Ex,Y,SBrkr,Ex,Y,,,,ConLI,Normal,BuiltIn
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,HdBoard,HdBoard,None,PConc,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,TwnhsE,1Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,HdBoard,HdBoard,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,MnPrv,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,Other,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,New,Partial,Attchd
+RM,Pave,Grvl,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,CBlock,GasA,Ex,N,FuseA,TA,N,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,TwnhsE,1Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,New,Partial,Attchd
+RL,Pave,,Reg,Bnk,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,Plywood,Plywood,BrkFace,CBlock,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,Twnhs,2Story,Gable,CompShg,MetalSd,MetalSd,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,GdPrv,,COD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Ex,Y,,,,WD,Normal,BuiltIn
+RM,Pave,,Reg,Bnk,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,None,PConc,GasA,TA,Y,SBrkr,Gd,P,,,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,HdBoard,HdBoard,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Abnorml,Attchd
+FV,Pave,Pave,Reg,Lvl,AllPub,Inside,Gtl,TwnhsE,2Story,Gable,CompShg,MetalSd,MetalSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,HdBoard,HdBoard,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR2,Low,AllPub,Corner,Mod,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Gd,Y,SBrkr,Gd,Y,,GdPrv,,WD,Normal,
+RL,Pave,,Reg,Bnk,AllPub,Inside,Mod,1Fam,2Story,Gable,CompShg,MetalSd,MetalSd,None,CBlock,GasA,Ex,Y,SBrkr,Ex,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,HLS,AllPub,Inside,Mod,1Fam,2Story,Gable,CompShg,BrkFace,Wd Sdng,None,PConc,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Alloca,Basment
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,BrkCmn,CBlock,GasA,Gd,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Hip,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Ex,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,FR2,Gtl,1Fam,SLvl,Gable,CompShg,HdBoard,HdBoard,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,Y,,MnPrv,Shed,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Ex,Y,,,,WD,Normal,BuiltIn
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,TA,Y,,,,New,Partial,
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,TwnhsE,SFoyer,Gable,CompShg,CemntBd,CmentBd,None,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,SFoyer,Gable,CompShg,MetalSd,MetalSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,MnPrv,,WD,Abnorml,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,HLS,AllPub,Corner,Mod,1Fam,1.5Unf,Gable,CompShg,MetalSd,MetalSd,None,CBlock,GasA,Gd,Y,SBrkr,Gd,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,CemntBd,CmentBd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,New,Partial,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Hip,CompShg,VinylSd,VinylSd,Stone,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,Grvl,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,Stucco,Stucco,None,BrkTil,GasA,TA,N,FuseF,TA,N,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,HdBoard,HdBoard,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,Plywood,Plywood,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,
+FV,Pave,,Reg,Lvl,AllPub,Inside,Gtl,TwnhsE,2Story,Gable,CompShg,MetalSd,MetalSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,CBlock,GasA,Gd,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Hip,CompShg,Wd Sdng,Wd Sdng,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,Wd Sdng,Wd Sdng,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,GdWo,Shed,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,SLvl,Gable,CompShg,AsbShng,AsbShng,BrkFace,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,Basment
+RL,Pave,,IR1,HLS,AllPub,Inside,Sev,1Fam,2Story,Gable,CompShg,Plywood,Plywood,BrkFace,PConc,GasA,TA,Y,SBrkr,Fa,Y,,,,WD,Family,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,SLvl,Gable,WdShngl,Plywood,Wd Sdng,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,Y,,GdPrv,,WD,Normal,Attchd
+RM,Pave,Grvl,Reg,Lvl,AllPub,Corner,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,BrkTil,GasA,TA,Y,FuseA,Ex,N,,MnPrv,,WD,Abnorml,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,Twnhs,1Story,Gable,CompShg,VinylSd,VinylSd,Stone,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,Plywood,Plywood,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Family,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,Duplex,SFoyer,Gable,CompShg,Plywood,Plywood,None,CBlock,GasA,Gd,Y,SBrkr,TA,Y,,GdPrv,Shed,WD,Normal,
+RH,Pave,Pave,Reg,Bnk,AllPub,Inside,Gtl,2fmCon,2.5Fin,Hip,CompShg,VinylSd,VinylSd,None,CBlock,GasA,Ex,Y,FuseA,Fa,N,,,,WD,Abnorml,
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,AsbShng,AsbShng,None,BrkTil,Grav,Fa,N,FuseA,Fa,N,,,,ConLw,Normal,
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,2fmCon,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,None,CBlock,GasA,TA,Y,FuseA,Gd,Y,,,,WD,Normal,BuiltIn
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,MetalSd,Wd Sdng,None,CBlock,GasA,Gd,Y,FuseA,TA,P,,MnPrv,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,TwnhsE,1Story,Hip,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Ex,Y,,,,New,Partial,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,TwnhsE,1Story,Hip,CompShg,MetalSd,MetalSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Ex,Y,,,,WD,Normal,Attchd
+FV,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,SLvl,Gable,CompShg,Plywood,Wd Sdng,None,CBlock,GasA,Gd,Y,SBrkr,Ex,Y,,MnPrv,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Mansard,CompShg,WdShing,HdBoard,BrkFace,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,GdWo,,WD,Normal,Attchd
+FV,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,CemntBd,CmentBd,Stone,PConc,GasA,Ex,Y,SBrkr,Ex,Y,,,,New,Partial,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Hip,CompShg,Plywood,Plywood,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,MetalSd,MetalSd,None,CBlock,GasA,Gd,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,Wd Sdng,Wd Sdng,Stone,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,MetalSd,MetalSd,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,Twnhs,SFoyer,Gable,CompShg,CemntBd,CmentBd,None,CBlock,GasA,Gd,Y,SBrkr,TA,Y,,MnPrv,,WD,Normal,
+FV,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,CemntBd,CmentBd,,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,MetalSd,MetalSd,None,CBlock,GasA,TA,Y,SBrkr,TA,P,,MnPrv,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RM,Pave,Grvl,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,MetalSd,MetalSd,None,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,MnPrv,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,MetalSd,MetalSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,Twnhs,2Story,Gable,CompShg,HdBoard,ImStucc,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Family,
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,HdBoard,HdBoard,BrkFace,CBlock,GasA,Ex,Y,SBrkr,Gd,Y,,MnPrv,,WD,Normal,Attchd
+RL,Pave,,Reg,HLS,AllPub,Inside,Mod,1Fam,2Story,Gable,CompShg,Stucco,Wd Shng,None,BrkTil,GasA,TA,Y,SBrkr,TA,P,,MnPrv,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,VinylSd,VinylSd,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Abnorml,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Hip,CompShg,MetalSd,MetalSd,None,PConc,GasA,Ex,Y,SBrkr,TA,Y,,MnPrv,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,CulDSac,Gtl,1Fam,2Story,Gable,CompShg,Plywood,Plywood,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR2,Lvl,AllPub,CulDSac,Gtl,1Fam,2Story,Hip,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Hip,CompShg,Wd Sdng,Wd Sdng,BrkFace,CBlock,GasA,Gd,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,SFoyer,Gable,CompShg,Plywood,Plywood,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,MnPrv,,WD,Normal,
+RL,Pave,,IR2,Lvl,AllPub,CulDSac,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Ex,Y,,,,New,Partial,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Flat,Tar&Grv,Plywood,Plywood,BrkCmn,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Abnorml,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,HdBoard,HdBoard,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Bnk,AllPub,Corner,Mod,1Fam,1Story,Gable,CompShg,CemntBd,Wd Sdng,None,CBlock,GasA,Gd,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,MetalSd,MetalSd,None,BrkTil,GasA,Ex,Y,SBrkr,Fa,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,FR2,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RH,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gambrel,CompShg,Wd Sdng,Wd Sdng,None,BrkTil,GasA,TA,N,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,Plywood,Plywood,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,CemntBd,CmentBd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,HdBoard,HdBoard,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,Twnhs,2Story,Gable,CompShg,Plywood,Brk Cmn,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RM,Pave,Grvl,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,AsbShng,Stucco,None,BrkTil,GasW,Fa,N,SBrkr,TA,N,,,,WD,Normal,2Types
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,None,BrkTil,GasA,Ex,Y,SBrkr,Gd,N,,,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,VinylSd,VinylSd,Stone,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,New,Partial,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,Wd Sdng,Wd Sdng,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,TwnhsE,1Story,Gable,CompShg,Plywood,Plywood,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RH,Pave,Pave,IR2,Bnk,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,VinylSd,Stucco,None,BrkTil,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Abnorml,
+RL,Pave,,Reg,HLS,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Hip,CompShg,VinylSd,VinylSd,Stone,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR2,Lvl,AllPub,CulDSac,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Gd,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,CulDSac,Gtl,TwnhsE,2Story,Gable,CompShg,HdBoard,HdBoard,None,CBlock,GasA,Gd,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+FV,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,New,Partial,Attchd
+FV,Pave,,IR2,Lvl,AllPub,FR2,Gtl,TwnhsE,2Story,Gable,CompShg,MetalSd,MetalSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,
+RL,Pave,,Reg,HLS,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,MetalSd,MetalSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,New,Partial,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,TwnhsE,1Story,Gable,CompShg,VinylSd,VinylSd,Stone,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,TwnhsE,1Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,1Fam,2Story,Gable,WdShngl,HdBoard,HdBoard,BrkFace,PConc,GasA,Ex,Y,SBrkr,Ex,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Mod,1Fam,2Story,Hip,CompShg,MetalSd,MetalSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Corner,Sev,1Fam,1Story,Gable,CompShg,MetalSd,MetalSd,None,BrkTil,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Abnorml,
+RM,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,None,BrkTil,GasA,TA,Y,SBrkr,TA,Y,,MnPrv,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,HdBoard,HdBoard,BrkFace,CBlock,GasA,Gd,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,Wd Sdng,Wd Shng,None,CBlock,GasA,Gd,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,None,PConc,GasA,Fa,Y,FuseA,TA,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,MetalSd,MetalSd,None,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,MnPrv,,WD,Normal,
+FV,Pave,Pave,IR2,Lvl,AllPub,Inside,Gtl,TwnhsE,1Story,Gable,CompShg,MetalSd,MetalSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,HdBoard,HdBoard,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,COD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Hip,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Ex,Y,,,,New,Partial,BuiltIn
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,2fmCon,2Story,Gable,CompShg,Wd Sdng,Wd Sdng,None,BrkTil,GasA,Gd,Y,SBrkr,Gd,N,,MnPrv,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,2fmCon,2Story,Hip,CompShg,VinylSd,Wd Shng,None,Slab,GasA,Fa,N,SBrkr,Fa,N,,,Othr,WD,Normal,
+RL,Pave,,IR2,Low,AllPub,CulDSac,Sev,1Fam,1Story,Gable,CompShg,Plywood,Plywood,Stone,CBlock,GasA,TA,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,TwnhsE,1Story,Hip,CompShg,MetalSd,MetalSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Hip,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,New,Partial,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,HdBoard,HdBoard,BrkCmn,PConc,GasA,TA,Y,SBrkr,TA,Y,,MnPrv,,WD,Abnorml,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,None,CBlock,GasA,Gd,Y,SBrkr,TA,N,,,,WD,Normal,
+C (all),Pave,Pave,Reg,HLS,AllPub,Inside,Mod,1Fam,1.5Fin,Gable,CompShg,MetalSd,MetalSd,None,Stone,GasA,Gd,Y,SBrkr,TA,N,,,,WD,Abnorml,
+RL,Pave,,IR1,HLS,AllPub,Inside,Gtl,TwnhsE,1Story,Gable,CompShg,HdBoard,HdBoard,None,PConc,GasA,Gd,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,2fmCon,1Story,Gable,CompShg,HdBoard,HdBoard,BrkFace,CBlock,GasW,TA,N,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,CulDSac,Gtl,1Fam,2Story,Gable,CompShg,HdBoard,Plywood,BrkFace,CBlock,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,HdBoard,HdBoard,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,Y,,MnPrv,,WD,Normal,Attchd
+RM,Pave,Grvl,Reg,Bnk,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,Wd Sdng,VinylSd,None,BrkTil,GasA,Ex,Y,SBrkr,TA,P,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,HdBoard,HdBoard,None,CBlock,GasA,Gd,Y,SBrkr,Gd,Y,,MnPrv,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Hip,CompShg,Wd Sdng,ImStucc,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,HdBoard,Plywood,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Low,AllPub,CulDSac,Mod,1Fam,1Story,Gable,CompShg,HdBoard,HdBoard,None,PConc,GasA,TA,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,TwnhsE,1Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,MetalSd,MetalSd,None,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,MetalSd,MetalSd,None,PConc,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,CemntBd,CmentBd,Stone,PConc,GasA,Ex,Y,SBrkr,Ex,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,HdBoard,Plywood,None,CBlock,GasA,TA,Y,SBrkr,Gd,Y,,,Shed,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Hip,CompShg,Wd Sdng,Plywood,BrkFace,CBlock,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,Stone,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,Duplex,1Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,COD,Abnorml,
+RM,Pave,Grvl,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,MetalSd,MetalSd,None,CBlock,GasA,TA,Y,FuseA,TA,Y,,,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,TwnhsE,1Story,Gable,CompShg,CemntBd,CmentBd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,1Fam,SLvl,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Hip,CompShg,HdBoard,HdBoard,None,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,GdWo,Shed,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Gable,CompShg,Plywood,Plywood,None,PConc,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Family,Attchd
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2.5Unf,Gable,CompShg,Wd Sdng,Wd Sdng,None,BrkTil,GasW,Fa,N,SBrkr,TA,N,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,Duplex,1Story,Gable,CompShg,Stucco,Stone,None,CBlock,GasA,Gd,N,FuseF,TA,Y,,,,WD,Normal,
+RL,Pave,,IR1,HLS,AllPub,CulDSac,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,Duplex,1Story,Gable,CompShg,Plywood,Plywood,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Alloca,
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RM,Pave,Grvl,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,Wd Sdng,Wd Shng,None,BrkTil,GasA,Ex,Y,SBrkr,TA,Y,,GdPrv,,WD,Abnorml,
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,HdBoard,HdBoard,None,CBlock,GasA,Gd,Y,SBrkr,Gd,Y,,GdPrv,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,TA,Y,,GdPrv,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,SLvl,Gable,CompShg,HdBoard,HdBoard,None,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,HLS,AllPub,Inside,Gtl,TwnhsE,1Story,Gable,CompShg,HdBoard,HdBoard,None,PConc,GasA,Gd,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Hip,CompShg,VinylSd,VinylSd,BrkFace,CBlock,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,BuiltIn
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,BuiltIn
+RM,Pave,Pave,IR1,Lvl,AllPub,Corner,Gtl,1Fam,2Story,Mansard,CompShg,Stucco,Stucco,None,Stone,GasW,TA,N,SBrkr,Gd,N,,,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,WdShing,Wd Shng,None,Slab,Wall,TA,N,FuseF,TA,N,,,,WD,Normal,
+RM,Pave,Grvl,Reg,Lvl,AllPub,Corner,Gtl,1Fam,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,None,BrkTil,GasA,Gd,Y,SBrkr,TA,N,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Gd,Y,SBrkr,Ex,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,Plywood,Plywood,None,CBlock,GasA,Gd,Y,SBrkr,Gd,Y,,,,WD,Normal,
+FV,Pave,Pave,Reg,Lvl,AllPub,Inside,Gtl,TwnhsE,2Story,Gable,CompShg,MetalSd,MetalSd,BrkFace,PConc,GasA,Gd,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,CulDSac,Gtl,1Fam,2Story,Hip,CompShg,HdBoard,HdBoard,BrkCmn,CBlock,GasA,TA,Y,SBrkr,TA,Y,,GdPrv,,WD,Abnorml,Attchd
+FV,Pave,Pave,Reg,Lvl,AllPub,Inside,Gtl,Twnhs,2Story,Gable,CompShg,MetalSd,MetalSd,BrkFace,PConc,GasA,Gd,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,Wd Sdng,Wd Sdng,None,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,,Shed,WD,Normal,
+RM,Pave,,Reg,Lvl,AllPub,FR2,Gtl,1Fam,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,None,PConc,GasA,TA,Y,SBrkr,Fa,Y,,,,WD,Normal,
+FV,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,Con,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,CulDSac,Gtl,TwnhsE,1Story,Hip,CompShg,BrkFace,BrkFace,None,PConc,GasA,Ex,Y,SBrkr,Ex,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,Stone,PConc,GasA,Ex,Y,SBrkr,Ex,Y,,,,New,Partial,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,HdBoard,HdBoard,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,Y,,MnPrv,Shed,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,VinylSd,VinylSd,None,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,,Shed,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR2,HLS,AllPub,CulDSac,Mod,1Fam,2Story,Hip,CompShg,CemntBd,Wd Shng,BrkFace,PConc,GasA,Ex,Y,SBrkr,Ex,Y,,,,WD,Normal,BuiltIn
+RL,Pave,,IR1,Lvl,AllPub,CulDSac,Gtl,1Fam,SFoyer,Hip,CompShg,Wd Sdng,Wd Sdng,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,None,CBlock,GasA,TA,Y,FuseF,TA,Y,,,,COD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,SLvl,Gable,CompShg,Plywood,Plywood,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,MnPrv,,WD,Abnorml,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,None,CBlock,GasA,Ex,Y,FuseA,TA,Y,,,,COD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Hip,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Gd,Y,SBrkr,Gd,Y,,,,New,Partial,Attchd
+RM,Pave,,Reg,Lvl,AllPub,FR2,Gtl,TwnhsE,1Story,Hip,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,New,Partial,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,HdBoard,Plywood,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,MnPrv,,WD,Normal,Attchd
+RH,Pave,,Reg,Lvl,AllPub,Inside,Gtl,Duplex,1Story,Gable,CompShg,Plywood,Plywood,BrkFace,Slab,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,Duplex,SFoyer,Gable,CompShg,Plywood,ImStucc,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,HdBoard,HdBoard,BrkFace,PConc,GasA,Gd,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR2,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,1Fam,SFoyer,Gable,CompShg,Plywood,Plywood,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RM,Pave,Grvl,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2.5Unf,Gable,CompShg,Wd Sdng,Wd Shng,None,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,BrkFace,Wd Sdng,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,MetalSd,MetalSd,None,PConc,GasA,TA,Y,SBrkr,TA,Y,,,Shed,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,BuiltIn
+RM,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Gable,CompShg,MetalSd,MetalSd,None,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,IR1,Low,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,HdBoard,HdBoard,BrkFace,CBlock,GasA,Gd,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,TwnhsE,1Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,1Fam,SLvl,Gable,CompShg,HdBoard,HdBoard,None,PConc,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,CulDSac,Gtl,1Fam,2Story,Gable,CompShg,MetalSd,MetalSd,None,PConc,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,CemntBd,CmentBd,Stone,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,New,Partial,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,1Fam,2Story,Gable,CompShg,MetalSd,MetalSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,Shed,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,HdBoard,HdBoard,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,Y,,MnPrv,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,Plywood,Plywood,BrkFace,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,MnPrv,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,None,CBlock,GasA,Gd,Y,SBrkr,TA,Y,,,,WD,Abnorml,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Hip,CompShg,VinylSd,VinylSd,Stone,PConc,GasA,Ex,Y,SBrkr,Ex,Y,,,,New,Partial,BuiltIn
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,BrkFace,BrkTil,GasA,Ex,Y,SBrkr,Gd,Y,,MnPrv,,WD,Normal,
+RL,Pave,,IR1,HLS,AllPub,Inside,Mod,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Gd,Y,SBrkr,Gd,Y,,,Shed,WD,Normal,Attchd
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,MetalSd,MetalSd,None,CBlock,GasA,Ex,Y,FuseA,TA,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,WdShing,Wd Shng,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Hip,CompShg,VinylSd,VinylSd,Stone,PConc,GasA,Ex,Y,SBrkr,Ex,Y,,,,New,Partial,BuiltIn
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,GdWo,,WD,Family,Attchd
+RL,Pave,,IR1,Lvl,AllPub,FR2,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,Stone,PConc,GasA,Ex,Y,SBrkr,Ex,Y,,,,New,Partial,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,SLvl,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Gd,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,Wd Sdng,Wd Sdng,None,CBlock,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,SLvl,Gable,CompShg,VinylSd,VinylSd,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,Y,,GdWo,,WD,Normal,Attchd
+RM,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,2.5Unf,Hip,CompShg,AsbShng,AsbShng,None,PConc,GasA,TA,N,FuseA,TA,N,,MnPrv,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,HdBoard,HdBoard,BrkFace,CBlock,GasA,Fa,Y,SBrkr,Gd,Y,Fa,GdPrv,,WD,Normal,Attchd
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,TwnhsE,1Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,ConLD,Normal,Attchd
+C (all),Grvl,,Reg,Bnk,AllPub,Inside,Mod,1Fam,1Story,Hip,CompShg,Wd Sdng,Wd Sdng,None,CBlock,GasA,TA,N,FuseA,Fa,N,,,Shed,WD,Alloca,Basment
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,MetalSd,MetalSd,BrkFace,CBlock,GasA,Gd,Y,SBrkr,TA,Y,,,Shed,COD,Normal,Attchd
+RL,Pave,Grvl,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,Stucco,Stucco,None,BrkTil,GasW,Gd,Y,SBrkr,Fa,P,,,,WD,Normal,
+RL,Pave,,IR2,Lvl,AllPub,CulDSac,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Gable,CompShg,BrkFace,BrkFace,None,CBlock,GasA,Gd,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,CulDSac,Gtl,1Fam,1Story,Hip,CompShg,CemntBd,CmentBd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,SLvl,Gable,CompShg,HdBoard,HdBoard,BrkFace,CBlock,GasA,Gd,Y,SBrkr,TA,Y,,MnPrv,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,TwnhsE,1Story,Gable,CompShg,VinylSd,VinylSd,Stone,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,New,Partial,Attchd
+RL,Pave,,IR1,Lvl,AllPub,CulDSac,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RM,Pave,Pave,Reg,Bnk,AllPub,Inside,Mod,2fmCon,1Story,Gable,CompShg,MetalSd,MetalSd,None,CBlock,GasA,TA,N,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Family,BuiltIn
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,VinylSd,VinylSd,None,BrkTil,GasA,TA,Y,SBrkr,TA,Y,,GdWo,,WD,Normal,
+FV,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,New,Partial,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,CemntBd,CmentBd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Ex,Y,,,,New,Partial,Attchd
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1.5Unf,Gable,CompShg,MetalSd,MetalSd,None,BrkTil,GasA,Gd,Y,SBrkr,Gd,Y,,,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR2,Low,AllPub,CulDSac,Sev,1Fam,2Story,Flat,Tar&Grv,Plywood,Plywood,None,PConc,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Abnorml,Attchd
+FV,Pave,Pave,Reg,Lvl,AllPub,Inside,Gtl,Twnhs,2Story,Gable,CompShg,MetalSd,MetalSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Gable,CompShg,HdBoard,HdBoard,BrkFace,CBlock,GasA,TA,Y,FuseA,TA,Y,,,,WD,Normal,Attchd
+FV,Pave,Pave,Reg,Lvl,AllPub,Inside,Gtl,TwnhsE,2Story,Gable,CompShg,MetalSd,MetalSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,CulDSac,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,HdBoard,Plywood,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,CBlock,GasA,Gd,Y,SBrkr,TA,Y,,GdWo,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,HdBoard,None,CBlock,GasA,TA,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RM,Pave,Pave,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,None,BrkTil,GasA,Gd,Y,SBrkr,TA,Y,,GdWo,,COD,Normal,
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,Twnhs,2Story,Gable,CompShg,HdBoard,HdBoard,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,MetalSd,MetalSd,None,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,
+RH,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,Wd Sdng,Wd Sdng,None,BrkTil,GasA,TA,N,SBrkr,Fa,P,,,,WD,Normal,
+RM,Pave,Grvl,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,MetalSd,MetalSd,None,PConc,GasA,Gd,Y,SBrkr,Gd,P,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,SLvl,Gable,CompShg,HdBoard,HdBoard,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,Y,,GdPrv,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,Duplex,1Story,Gable,CompShg,BrkFace,BrkFace,None,CBlock,GasA,Ex,N,SBrkr,TA,Y,,,,WD,Normal,
+RM,Pave,Grvl,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,None,BrkTil,GasA,Gd,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,CulDSac,Gtl,1Fam,SFoyer,Gable,CompShg,HdBoard,HdBoard,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,Basment
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,HdBoard,HdBoard,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,CulDSac,Gtl,1Fam,1Story,Gable,CompShg,HdBoard,Plywood,None,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR2,Bnk,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,None,BrkTil,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,FR2,Gtl,1Fam,SLvl,Hip,CompShg,Plywood,Plywood,BrkFace,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,TwnhsE,1Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,TwnhsE,1Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2.5Unf,Gable,CompShg,MetalSd,MetalSd,None,CBlock,GasA,Gd,Y,SBrkr,TA,Y,,MnPrv,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,1Fam,SLvl,Gable,CompShg,MetalSd,HdBoard,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,Y,,MnPrv,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,Wd Sdng,Plywood,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Abnorml,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Gable,CompShg,HdBoard,HdBoard,None,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,IR1,Low,AllPub,Inside,Mod,1Fam,SLvl,Gable,CompShg,Plywood,HdBoard,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,MnPrv,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,HdBoard,HdBoard,None,PConc,GasA,Gd,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,HdBoard,HdBoard,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,Y,,MnPrv,,WD,Family,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,1Fam,2Story,Gable,CompShg,HdBoard,HdBoard,BrkFace,CBlock,GasA,TA,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,None,BrkTil,GasA,Gd,Y,SBrkr,Gd,Y,,GdPrv,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,2fmCon,1Story,Hip,CompShg,Plywood,HdBoard,None,PConc,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Hip,CompShg,HdBoard,Plywood,None,PConc,GasA,TA,Y,SBrkr,TA,Y,,GdPrv,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,BrkFace,Plywood,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,GdPrv,,WD,Normal,Attchd
+FV,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,New,Partial,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,MetalSd,MetalSd,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,Y,,MnPrv,,WD,Normal,
+RL,Pave,,IR1,HLS,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,Stone,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,New,Partial,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,None,CBlock,GasA,TA,Y,SBrkr,Fa,Y,,,Shed,WD,Normal,Attchd
+RL,Pave,,IR2,Lvl,AllPub,Corner,Gtl,1Fam,2Story,Gable,CompShg,Plywood,Plywood,None,Slab,GasA,Gd,Y,SBrkr,TA,P,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,MetalSd,MetalSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,GdPrv,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,MetalSd,MetalSd,None,CBlock,GasA,Gd,N,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Gable,CompShg,WdShing,Wd Shng,None,Stone,GasA,Gd,Y,SBrkr,Gd,Y,,GdWo,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,HdBoard,HdBoard,None,CBlock,GasA,Gd,Y,SBrkr,TA,Y,,,Othr,WD,Normal,Attchd
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,None,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Abnorml,
+FV,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,CemntBd,CmentBd,None,PConc,GasA,Ex,Y,SBrkr,Ex,Y,,,,New,Partial,BuiltIn
+RL,Pave,,Reg,HLS,AllPub,Inside,Mod,1Fam,1Story,Gable,CompShg,HdBoard,Plywood,None,PConc,GasA,Gd,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Hip,CompShg,VinylSd,VinylSd,Stone,PConc,GasA,Ex,Y,SBrkr,Ex,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,SFoyer,Gable,CompShg,HdBoard,HdBoard,None,CBlock,GasA,TA,Y,SBrkr,Gd,Y,,MnPrv,Shed,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,CulDSac,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,GdWo,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Gd,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,CulDSac,Gtl,1Fam,1.5Fin,Gable,CompShg,HdBoard,HdBoard,BrkFace,CBlock,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Gd,Y,SBrkr,TA,Y,,MnPrv,,WD,Normal,BuiltIn
+RL,Pave,,Reg,Bnk,AllPub,Inside,Gtl,1Fam,2.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,None,PConc,GasA,TA,N,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,HdBoard,HdBoard,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,Y,,GdWo,,WD,Normal,Attchd
+FV,Pave,,IR1,Lvl,AllPub,CulDSac,Gtl,TwnhsE,1Story,Gable,CompShg,MetalSd,MetalSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,CWD,Abnorml,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,Duplex,1Story,Gable,CompShg,MetalSd,MetalSd,BrkFace,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Family,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,MetalSd,MetalSd,None,PConc,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Mod,1Fam,1Story,Flat,Tar&Grv,Wd Sdng,Wd Sdng,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,Wd Sdng,Wd Sdng,BrkFace,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,1.5Fin,Gable,CompShg,MetalSd,MetalSd,None,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,MnPrv,Shed,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Hip,CompShg,HdBoard,HdBoard,BrkFace,CBlock,GasA,Gd,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,HdBoard,HdBoard,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,MnPrv,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,Wd Sdng,Plywood,None,PConc,GasA,TA,Y,SBrkr,TA,Y,,GdPrv,,WD,Normal,Attchd
+RL,Pave,,Reg,Bnk,AllPub,Inside,Gtl,Duplex,1Story,Gable,CompShg,Plywood,Plywood,None,Slab,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Alloca,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Hip,CompShg,HdBoard,HdBoard,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RM,Pave,Grvl,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,None,BrkTil,GasA,Ex,N,SBrkr,TA,Y,,,,WD,Abnorml,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,Duplex,2Story,Gable,CompShg,Plywood,Plywood,None,Slab,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Alloca,
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,VinylSd,VinylSd,Stone,PConc,GasA,Ex,Y,SBrkr,Ex,Y,,,,New,Partial,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,HdBoard,Plywood,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,HdBoard,HdBoard,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,MetalSd,MetalSd,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,HLS,AllPub,CulDSac,Gtl,1Fam,1Story,Hip,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,New,Partial,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,HdBoard,Wd Sdng,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,Y,,MnPrv,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,HdBoard,HdBoard,Stone,CBlock,GasA,TA,Y,SBrkr,TA,Y,,MnPrv,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,Stone,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,BrkFace,BrkFace,None,CBlock,GasA,Gd,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Low,AllPub,Inside,Mod,1Fam,1Story,Gable,CompShg,HdBoard,HdBoard,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,MnPrv,,WD,Normal,Attchd
+RL,Pave,,IR2,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,Duplex,2Story,Gable,CompShg,MetalSd,MetalSd,BrkFace,CBlock,GasA,TA,Y,FuseA,TA,Y,,,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,CulDSac,Mod,1Fam,1Story,Gable,CompShg,HdBoard,Plywood,None,CBlock,GasA,TA,Y,SBrkr,Gd,Y,,,,WD,Normal,
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,MetalSd,MetalSd,None,BrkTil,GasA,TA,N,SBrkr,TA,Y,,MnPrv,Shed,WD,Abnorml,
+RH,Pave,,Reg,HLS,AllPub,Inside,Gtl,Duplex,2Story,Gable,CompShg,MetalSd,MetalSd,None,CBlock,GasA,TA,N,FuseA,TA,Y,,,,WD,Normal,2Types
+FV,Pave,Pave,Reg,Lvl,AllPub,Inside,Gtl,TwnhsE,2Story,Gable,CompShg,VinylSd,VinylSd,Stone,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,New,Partial,
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,Twnhs,2Story,Gable,CompShg,CemntBd,CmentBd,BrkFace,CBlock,GasA,Fa,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+C (all),Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,AsbShng,AsbShng,None,CBlock,GasA,TA,N,FuseA,TA,Y,,,,WD,Abnorml,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,None,CBlock,GasA,Ex,Y,FuseA,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,1Fam,2Story,Gable,CompShg,HdBoard,HdBoard,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,GdPrv,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Hip,CompShg,MetalSd,MetalSd,None,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,HdBoard,HdBoard,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,Duplex,1.5Fin,Gable,CompShg,MetalSd,MetalSd,None,CBlock,GasA,Gd,Y,SBrkr,TA,N,,GdPrv,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,New,Partial,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,TwnhsE,1Story,Gable,CompShg,Plywood,Plywood,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,Plywood,Plywood,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,TA,Y,SBrkr,Ex,Y,,,,WD,Abnorml,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Hip,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Ex,Y,,,,WD,Normal,BuiltIn
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,MetalSd,MetalSd,BrkFace,CBlock,GasA,Gd,Y,SBrkr,TA,Y,,GdPrv,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Ex,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,1Fam,2Story,Gable,CompShg,HdBoard,HdBoard,BrkFace,PConc,GasA,Gd,Y,SBrkr,Gd,Y,,,,WD,Normal,BuiltIn
+RL,Pave,,IR1,HLS,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,None,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,GdWo,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Hip,CompShg,VinylSd,ImStucc,Stone,PConc,GasA,Ex,Y,SBrkr,Ex,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,FR2,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR2,HLS,AllPub,Inside,Mod,1Fam,1Story,Flat,Tar&Grv,Wd Sdng,Wd Sdng,None,CBlock,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,MetalSd,MetalSd,BrkFace,PConc,GasA,Gd,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,New,Partial,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,MetalSd,MetalSd,None,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,,,COD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,Duplex,1Story,Gable,CompShg,Plywood,Plywood,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,FR2,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,GdPrv,,WD,Normal,BuiltIn
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,Duplex,1Story,Gable,CompShg,MetalSd,MetalSd,None,PConc,GasA,TA,Y,SBrkr,TA,N,,,,Oth,Abnorml,
+RL,Pave,,Reg,Low,AllPub,Inside,Gtl,Duplex,1Story,Gable,CompShg,HdBoard,Plywood,None,CBlock,GasA,TA,Y,SBrkr,TA,P,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,NoSeWa,CulDSac,Gtl,1Fam,SLvl,Gable,CompShg,HdBoard,HdBoard,BrkFace,CBlock,GasA,Gd,Y,FuseA,Gd,Y,,,,COD,Abnorml,Basment
+RM,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,1.5Fin,Hip,CompShg,VinylSd,VinylSd,None,BrkTil,GasA,TA,Y,SBrkr,TA,Y,,MnWw,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,SLvl,Gable,CompShg,HdBoard,HdBoard,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,Plywood,Plywood,None,CBlock,GasA,TA,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,None,CBlock,GasA,Gd,Y,SBrkr,Gd,Y,,,,WD,Normal,
+RH,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,None,CBlock,GasA,Gd,Y,SBrkr,TA,Y,,MnPrv,,WD,Abnorml,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,SFoyer,Gable,CompShg,WdShing,HdBoard,None,CBlock,GasA,Gd,Y,SBrkr,TA,Y,,MnPrv,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Inside,Mod,1Fam,2Story,Gable,CompShg,HdBoard,HdBoard,BrkFace,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,MnPrv,Shed,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,CulDSac,Gtl,Duplex,SFoyer,Flat,Tar&Grv,WdShing,Plywood,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,AdjLand,
+RH,Pave,,IR1,HLS,AllPub,Inside,Gtl,Duplex,2Story,Gable,CompShg,MetalSd,MetalSd,BrkFace,CBlock,GasA,TA,N,FuseF,TA,Y,,,,WD,Normal,Attchd
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,TwnhsE,2Story,Gable,CompShg,MetalSd,MetalSd,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,GdPrv,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,MetalSd,MetalSd,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+FV,Pave,,Reg,Lvl,AllPub,FR2,Gtl,Twnhs,2Story,Hip,CompShg,MetalSd,MetalSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,Wd Sdng,Plywood,None,CBlock,GasA,Gd,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,1Fam,2Story,Gable,CompShg,HdBoard,HdBoard,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,TwnhsE,2Story,Gable,CompShg,Plywood,Brk Cmn,None,CBlock,GasA,TA,Y,SBrkr,Gd,Y,,,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Ex,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,BuiltIn
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,New,Partial,Attchd
+RL,Pave,,IR1,HLS,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,MetalSd,MetalSd,None,BrkTil,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,Wd Sdng,Wd Sdng,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,VinylSd,VinylSd,None,BrkTil,Grav,Fa,N,SBrkr,TA,Y,,GdWo,,WD,Abnorml,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,2fmCon,SLvl,Hip,CompShg,HdBoard,HdBoard,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,ConLD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,AsbShng,AsbShng,None,CBlock,GasA,TA,N,FuseA,TA,Y,,,,WD,Abnorml,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,Twnhs,2Story,Gable,CompShg,VinylSd,Wd Shng,Stone,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,BuiltIn
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,TwnhsE,1Story,Gable,CompShg,Plywood,Plywood,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+FV,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Gable,CompShg,CemntBd,CmentBd,,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,New,Partial,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,1Fam,2Story,Gable,CompShg,HdBoard,HdBoard,None,BrkTil,GasA,TA,N,SBrkr,Gd,Y,,GdPrv,,WD,Normal,
+FV,Pave,,Reg,Lvl,AllPub,FR2,Gtl,Twnhs,2Story,Gable,CompShg,MetalSd,MetalSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,
+RL,Pave,,IR1,Bnk,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,None,PConc,GasA,TA,Y,FuseA,Fa,Y,,,,WD,Normal,
+FV,Pave,Pave,IR1,Lvl,AllPub,Inside,Gtl,TwnhsE,1Story,Gable,CompShg,VinylSd,VinylSd,,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,New,Partial,Attchd
+RL,Pave,,Reg,Bnk,AllPub,Inside,Mod,1Fam,1Story,Gable,CompShg,MetalSd,MetalSd,None,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Abnorml,
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,TA,Y,SBrkr,TA,Y,,MnPrv,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,1Fam,SFoyer,Gable,CompShg,CemntBd,CmentBd,Stone,CBlock,GasA,Gd,Y,SBrkr,Ex,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,1Fam,2Story,Hip,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,2Story,Gable,CompShg,CemntBd,CmentBd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,Duplex,1.5Fin,Gable,CompShg,Plywood,Plywood,None,CBlock,GasA,TA,Y,SBrkr,Gd,Y,,,,COD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,2fmCon,1Story,Gable,CompShg,MetalSd,MetalSd,None,CBlock,GasW,TA,N,SBrkr,TA,Y,,,,ConLD,Normal,
+RM,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,1.5Fin,Hip,CompShg,VinylSd,VinylSd,None,CBlock,GasA,Gd,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,VinylSd,VinylSd,Stone,PConc,GasA,Ex,Y,SBrkr,Ex,Y,,,,New,Partial,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,Plywood,Plywood,BrkFace,CBlock,GasA,TA,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+FV,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,New,Partial,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RM,Pave,Grvl,Reg,Lvl,AllPub,Corner,Gtl,1Fam,2Story,Gable,CompShg,Wd Sdng,Wd Sdng,None,BrkTil,GasA,Gd,Y,SBrkr,Gd,P,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Mod,1Fam,2Story,Hip,CompShg,Wd Sdng,Wd Sdng,BrkFace,CBlock,GasA,Gd,Y,SBrkr,Gd,Y,,MnWw,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,New,Partial,Attchd
+RL,Pave,,Reg,Lvl,AllPub,FR2,Gtl,1Fam,1Story,Hip,CompShg,CemntBd,CmentBd,Stone,PConc,GasA,Ex,Y,SBrkr,Ex,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Mod,1Fam,1.5Fin,Gable,CompShg,MetalSd,MetalSd,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,MnPrv,,WD,Abnorml,
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,Wd Sdng,Wd Sdng,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,COD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,HdBoard,HdBoard,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,Wd Sdng,Wd Sdng,None,BrkTil,GasA,Fa,N,SBrkr,TA,P,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,Stone,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Flat,Tar&Grv,BrkComm,Brk Cmn,None,Slab,GasW,Fa,N,FuseF,Fa,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,None,BrkTil,GasA,Ex,Y,FuseA,Ex,N,,,,WD,Abnorml,
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,Duplex,1Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,CBlock,GasA,Fa,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,TwnhsE,1Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,SLvl,Gable,CompShg,HdBoard,HdBoard,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR3,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,Plywood,Plywood,None,CBlock,GasA,Gd,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,TwnhsE,2Story,Gable,CompShg,CemntBd,CmentBd,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,CulDSac,Gtl,1Fam,1Story,Hip,CompShg,VinylSd,VinylSd,Stone,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,None,BrkTil,GasA,Ex,Y,SBrkr,TA,P,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,Duplex,1Story,Hip,CompShg,AsphShn,AsphShn,None,CBlock,GasA,TA,N,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Hip,CompShg,Wd Sdng,Wd Sdng,None,PConc,GasA,TA,Y,SBrkr,Gd,Y,,,,WD,Normal,
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,MetalSd,Stucco,None,BrkTil,GasW,TA,N,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,MetalSd,MetalSd,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,CulDSac,Gtl,TwnhsE,1Story,Gable,CompShg,HdBoard,HdBoard,None,CBlock,GasA,Gd,Y,SBrkr,Gd,Y,,,,COD,Abnorml,Attchd
+RL,Pave,,IR1,Lvl,AllPub,FR2,Gtl,1Fam,SLvl,Gable,CompShg,HdBoard,HdBoard,BrkFace,PConc,GasA,Gd,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,TwnhsE,1Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,Stone,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,New,Partial,Attchd
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,None,CBlock,GasA,Gd,Y,FuseA,TA,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,TwnhsE,1Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Hip,WdShake,Stone,HdBoard,None,CBlock,GasA,TA,Y,SBrkr,Gd,Y,,,,COD,Abnorml,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,MnPrv,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,MetalSd,HdBoard,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,HLS,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,Stone,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,New,Partial,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,WdShing,Wd Shng,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,Twnhs,2Story,Gable,CompShg,HdBoard,HdBoard,BrkFace,CBlock,GasA,Gd,Y,SBrkr,TA,Y,,,,WD,Normal,
+RH,Pave,,Reg,Lvl,AllPub,Inside,Gtl,2fmCon,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Gd,Y,SBrkr,TA,N,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,2.5Fin,Gable,CompShg,Wd Sdng,Plywood,None,BrkTil,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,Basment
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,1Fam,2Story,Gable,CompShg,MetalSd,MetalSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Abnorml,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,Stone,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Bnk,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,MetalSd,MetalSd,None,PConc,GasA,Ex,Y,SBrkr,Fa,Y,,MnPrv,,WD,Normal,Basment
+RL,Pave,,IR1,Lvl,AllPub,CulDSac,Gtl,1Fam,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,None,Slab,GasA,Ex,N,SBrkr,TA,N,,,,WD,Normal,
+RL,Pave,,IR1,HLS,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,VinylSd,VinylSd,Stone,PConc,GasA,Ex,Y,SBrkr,Ex,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,BuiltIn
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,Twnhs,2Story,Gable,CompShg,CemntBd,CmentBd,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,TwnhsE,SFoyer,Gable,CompShg,CemntBd,CmentBd,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,BrkCmn,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,GdPrv,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Hip,CompShg,HdBoard,HdBoard,BrkFace,CBlock,GasA,Gd,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,Twnhs,1Story,Gable,CompShg,VinylSd,VinylSd,Stone,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Hip,CompShg,HdBoard,HdBoard,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,WdShngl,BrkFace,BrkFace,None,PConc,GasA,TA,Y,SBrkr,Gd,Y,,MnPrv,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,CulDSac,Gtl,1Fam,1Story,Hip,CompShg,BrkFace,Wd Sdng,None,Slab,GasA,Ex,Y,FuseA,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Hip,CompShg,CemntBd,CmentBd,Stone,PConc,GasA,Ex,Y,SBrkr,Ex,Y,,,,New,Partial,BuiltIn
+RL,Pave,,IR2,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,HdBoard,HdBoard,BrkFace,Slab,GasA,TA,Y,SBrkr,TA,Y,,GdPrv,,WD,Normal,Attchd
+RL,Pave,,Reg,Low,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,MetalSd,MetalSd,None,CBlock,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Abnorml,
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,New,Partial,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,New,Partial,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,BrkCmn,CBlock,GasA,TA,Y,SBrkr,TA,Y,,GdPrv,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Mod,1Fam,1Story,Hip,CompShg,HdBoard,HdBoard,Stone,CBlock,GasA,Ex,Y,FuseA,TA,Y,,,,WD,Normal,Basment
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,Plywood,Plywood,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,Y,,MnPrv,,COD,Abnorml,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,TwnhsE,1Story,Gable,CompShg,VinylSd,VinylSd,Stone,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR2,Lvl,AllPub,FR2,Gtl,1Fam,2Story,Gable,CompShg,HdBoard,HdBoard,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,BuiltIn
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,Stone,PConc,GasA,Ex,Y,SBrkr,Ex,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,HLS,AllPub,Corner,Mod,1Fam,1.5Fin,Gable,CompShg,MetalSd,MetalSd,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,TwnhsE,1Story,Gable,CompShg,CemntBd,CmentBd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+C (all),Grvl,,Reg,Low,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,MetalSd,MetalSd,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,Shed,ConLD,Normal,
+RM,Pave,Grvl,Reg,Lvl,AllPub,Inside,Gtl,2fmCon,2Story,Gable,CompShg,Wd Sdng,Wd Sdng,None,BrkTil,GasA,TA,N,SBrkr,TA,Y,,,,WD,Normal,
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,MetalSd,MetalSd,None,BrkTil,GasA,Gd,Y,SBrkr,Gd,Y,,MnPrv,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,CulDSac,Gtl,1Fam,1Story,Gable,CompShg,Plywood,Plywood,BrkFace,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,MnPrv,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Mod,1Fam,2Story,Gable,CompShg,Wd Sdng,Wd Sdng,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Gd,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Mod,1Fam,2Story,Gable,CompShg,HdBoard,HdBoard,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,TwnhsE,2Story,Gable,CompShg,CemntBd,CmentBd,None,CBlock,GasA,Gd,Y,SBrkr,TA,Y,,GdPrv,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1.5Unf,Gable,CompShg,MetalSd,MetalSd,None,CBlock,GasA,TA,Y,SBrkr,Gd,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,MetalSd,MetalSd,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,MetalSd,MetalSd,None,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,MetalSd,MetalSd,None,CBlock,GasA,Fa,Y,FuseA,TA,P,,,,WD,Normal,
+RL,Pave,,IR1,Bnk,AllPub,Corner,Gtl,1Fam,2Story,Hip,CompShg,HdBoard,Plywood,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,Y,,MnPrv,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,Wd Sdng,Wd Sdng,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,CWD,Normal,Attchd
+RL,Pave,Grvl,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,None,CBlock,GasA,Gd,Y,SBrkr,Gd,Y,,,Shed,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,Plywood,None,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Abnorml,Attchd
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,TwnhsE,1Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Gd,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,CBlock,GasA,Ex,Y,SBrkr,Gd,Y,,,,COD,Abnorml,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Gable,CompShg,HdBoard,HdBoard,None,CBlock,GasA,Fa,Y,SBrkr,TA,Y,,MnPrv,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,HdBoard,HdBoard,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,Y,,MnPrv,Shed,WD,Normal,Attchd
+RL,Pave,,IR2,Lvl,AllPub,Corner,Gtl,1Fam,2Story,Gable,CompShg,HdBoard,HdBoard,None,PConc,GasA,Gd,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,SFoyer,Gable,CompShg,HdBoard,HdBoard,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,TwnhsE,2Story,Gable,CompShg,CemntBd,CmentBd,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+FV,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,Twnhs,2Story,Gable,CompShg,VinylSd,VinylSd,Stone,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,
+FV,Pave,Pave,IR1,Lvl,AllPub,Inside,Gtl,TwnhsE,1Story,Gable,CompShg,MetalSd,MetalSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,Duplex,1Story,Gable,CompShg,BrkFace,BrkFace,None,Slab,Wall,Fa,N,FuseA,TA,Y,,,,WD,Normal,
+FV,Pave,Pave,Reg,Lvl,AllPub,Inside,Gtl,Twnhs,2Story,Gable,CompShg,MetalSd,MetalSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,
+RL,Pave,,Reg,Bnk,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,MetalSd,MetalSd,None,PConc,GasA,Fa,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Hip,CompShg,MetalSd,MetalSd,BrkFace,CBlock,GasA,Gd,Y,SBrkr,Gd,Y,,MnPrv,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,MetalSd,MetalSd,None,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Gd,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,Wd Sdng,Wd Sdng,None,PConc,GasA,TA,Y,SBrkr,Gd,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,TwnhsE,1Story,Gable,CompShg,HdBoard,HdBoard,None,CBlock,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,MetalSd,MetalSd,None,BrkTil,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,Plywood,Plywood,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,COD,Abnorml,Attchd
+RL,Pave,,Reg,Bnk,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,None,CBlock,GasA,TA,N,FuseF,Fa,N,,,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,HdBoard,MetalSd,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,BrkFace,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,MnWw,,WD,Family,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Hip,CompShg,BrkFace,BrkFace,None,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,BuiltIn
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,TwnhsE,2Story,Gable,CompShg,HdBoard,HdBoard,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,1Fam,2Story,Gable,CompShg,HdBoard,HdBoard,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Hip,CompShg,HdBoard,HdBoard,None,PConc,GasA,Gd,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR3,HLS,AllPub,CulDSac,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,New,Partial,BuiltIn
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Abnorml,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,MetalSd,MetalSd,Stone,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,HdBoard,HdBoard,None,PConc,GasA,Gd,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Hip,CompShg,Plywood,Plywood,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Gable,CompShg,WdShing,Wd Shng,None,CBlock,GasA,TA,Y,FuseA,TA,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,None,CBlock,GasA,Gd,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,MetalSd,MetalSd,None,CBlock,GasA,Ex,Y,SBrkr,Gd,Y,,MnPrv,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,VinylSd,VinylSd,Stone,PConc,GasA,Ex,Y,SBrkr,Ex,Y,,,,New,Partial,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,SLvl,Hip,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,BuiltIn
+RL,Pave,,IR1,Lvl,AllPub,FR2,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,None,CBlock,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,SLvl,Gable,CompShg,MetalSd,MetalSd,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,BuiltIn
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,BrkFace,Wd Sdng,None,CBlock,GasA,TA,Y,FuseA,TA,Y,,GdWo,,WD,Normal,Attchd
+RM,Pave,,Reg,Bnk,AllPub,Inside,Mod,1Fam,1Story,Gable,CompShg,BrkFace,BrkFace,None,BrkTil,GasA,TA,Y,FuseA,TA,Y,,MnPrv,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,New,Partial,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Gable,CompShg,AsbShng,AsbShng,None,CBlock,GasA,Ex,Y,FuseA,TA,Y,,MnPrv,,COD,Abnorml,Basment
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,VinylSd,VinylSd,None,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,SLvl,Gable,CompShg,HdBoard,HdBoard,BrkFace,PConc,GasA,Gd,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,Plywood,Plywood,None,CBlock,GasA,TA,Y,SBrkr,Fa,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,TwnhsE,1Story,Hip,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR3,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Hip,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Family,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,BuiltIn
+RM,Pave,Grvl,Reg,Lvl,AllPub,Inside,Gtl,Duplex,SFoyer,Gable,CompShg,MetalSd,MetalSd,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,WdShing,Plywood,None,BrkTil,GasA,TA,Y,SBrkr,Gd,Y,,MnPrv,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,HdBoard,HdBoard,None,PConc,GasA,TA,Y,SBrkr,TA,Y,,MnPrv,,Oth,Abnorml,
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,Wd Sdng,Wd Sdng,None,BrkTil,GasW,TA,Y,SBrkr,Fa,N,,,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,HLS,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Gd,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RM,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,None,BrkTil,GasA,TA,N,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,VinylSd,VinylSd,None,CBlock,GasA,TA,Y,FuseA,TA,Y,,,,WD,Abnorml,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,VinylSd,VinylSd,None,CBlock,GasA,Gd,N,SBrkr,TA,N,,,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Inside,Mod,1Fam,1Story,Gable,CompShg,Plywood,ImStucc,None,PConc,GasA,TA,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,Stucco,Stucco,None,BrkTil,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Gable,CompShg,HdBoard,HdBoard,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,COD,Abnorml,
+RL,Pave,,IR1,Lvl,AllPub,CulDSac,Gtl,1Fam,2Story,Gable,CompShg,Plywood,Plywood,BrkFace,CBlock,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Hip,CompShg,VinylSd,VinylSd,Stone,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,New,Partial,BuiltIn
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,Wd Sdng,Plywood,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,2fmCon,1.5Fin,Gable,CompShg,MetalSd,MetalSd,None,BrkTil,Grav,Fa,N,FuseA,Fa,Y,,MnPrv,,WD,Normal,
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,MetalSd,MetalSd,None,BrkTil,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Family,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,Wd Sdng,Wd Shng,BrkFace,CBlock,GasA,TA,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Bnk,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,MetalSd,MetalSd,None,CBlock,GasA,Ex,Y,SBrkr,Fa,Y,,,,WD,Normal,Attchd
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,None,PConc,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Hip,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,BrkFace,BrkFace,None,CBlock,GasA,Ex,Y,FuseA,Gd,Y,,GdPrv,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,HdBoard,Plywood,BrkFace,CBlock,GasA,TA,Y,SBrkr,Fa,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,Stone,Stone,None,PConc,GasA,Ex,Y,SBrkr,Ex,Y,,,,WD,Abnorml,Attchd
+RM,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,None,BrkTil,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,Stone,CBlock,GasA,TA,Y,SBrkr,Gd,Y,,GdPrv,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Gable,CompShg,Plywood,Plywood,None,CBlock,GasA,TA,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,SLvl,Gable,CompShg,BrkFace,BrkFace,None,PConc,GasA,Gd,Y,SBrkr,Gd,Y,,MnPrv,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,Twnhs,1Story,Gable,CompShg,VinylSd,VinylSd,Stone,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,FR2,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,Stone,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,ConLD,Partial,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Hip,CompShg,HdBoard,HdBoard,BrkFace,CBlock,GasA,TA,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,Twnhs,2Story,Gable,CompShg,Plywood,Brk Cmn,None,CBlock,GasA,Fa,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Low,AllPub,CulDSac,Gtl,1Fam,1Story,Hip,CompShg,HdBoard,HdBoard,BrkFace,CBlock,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,None,CBlock,GasA,Gd,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,Duplex,SFoyer,Gable,CompShg,Plywood,Plywood,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Alloca,
+RL,Pave,,IR1,Lvl,AllPub,FR2,Gtl,1Fam,SLvl,Gable,CompShg,Plywood,Plywood,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,Stone,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,New,Partial,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,Stone,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,2Story,Hip,CompShg,Stucco,Stucco,None,CBlock,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Basment
+RL,Pave,,IR1,Lvl,AllPub,CulDSac,Gtl,1Fam,2Story,Hip,CompShg,HdBoard,HdBoard,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,SLvl,Gable,CompShg,Plywood,Plywood,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,Gd,GdPrv,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,MetalSd,MetalSd,None,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,,Shed,WD,Normal,Attchd
+FV,Pave,Pave,IR1,Lvl,AllPub,Inside,Gtl,TwnhsE,2Story,Gable,CompShg,MetalSd,MetalSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,
+RL,Pave,,IR1,Bnk,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,MetalSd,MetalSd,None,CBlock,GasA,TA,Y,SBrkr,Ex,Y,,MnPrv,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,Wd Sdng,Wd Sdng,None,BrkTil,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1.5Fin,Hip,CompShg,HdBoard,HdBoard,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,CulDSac,Gtl,1Fam,1Story,Gable,CompShg,HdBoard,Plywood,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,MnPrv,,WD,Normal,Attchd
+RM,Pave,Grvl,Reg,Bnk,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,MetalSd,MetalSd,None,CBlock,GasA,TA,Y,SBrkr,TA,N,,,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,FR2,Gtl,1Fam,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,None,BrkTil,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,None,Slab,GasA,Gd,Y,SBrkr,TA,N,,,,WD,Normal,
+RL,Pave,,IR2,Lvl,AllPub,Corner,Gtl,1Fam,2Story,Gable,CompShg,MetalSd,MetalSd,None,Wood,GasA,Ex,Y,SBrkr,TA,Y,,GdPrv,,WD,Normal,Attchd
+RM,Pave,,IR1,HLS,AllPub,Inside,Mod,TwnhsE,1Story,Hip,CompShg,CemntBd,CmentBd,Stone,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,New,Partial,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,1Fam,2Story,Hip,CompShg,Wd Sdng,ImStucc,None,PConc,GasA,Ex,Y,SBrkr,Ex,Y,Ex,MnPrv,,WD,Abnorml,Attchd
+RL,Pave,Grvl,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,Stucco,Stucco,None,BrkTil,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Grvl,,Reg,Lvl,AllPub,Inside,Mod,1Fam,1Story,Hip,CompShg,MetalSd,MetalSd,BrkFace,CBlock,GasA,Gd,Y,SBrkr,TA,Y,,,,WD,Normal,2Types
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,AsbShng,AsbShng,None,BrkTil,GasA,Gd,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Bnk,AllPub,Corner,Mod,2fmCon,2Story,Gable,CompShg,HdBoard,HdBoard,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Abnorml,
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Gable,CompShg,ImStucc,ImStucc,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,GdPrv,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Gd,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Low,AllPub,Inside,Mod,2fmCon,1Story,Gable,CompShg,MetalSd,MetalSd,Stone,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,2Types
+FV,Pave,Pave,Reg,Lvl,AllPub,Inside,Gtl,Twnhs,2Story,Gable,CompShg,MetalSd,MetalSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,
+RM,Pave,Grvl,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1.5Fin,Gambrel,CompShg,VinylSd,VinylSd,None,PConc,GasA,Gd,Y,SBrkr,Gd,P,,GdWo,,WD,Normal,
+RM,Pave,,Reg,Lvl,AllPub,FR2,Gtl,TwnhsE,1Story,Hip,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,2Story,Gable,CompShg,HdBoard,HdBoard,Stone,CBlock,GasA,TA,Y,SBrkr,TA,Y,,MnPrv,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,New,Partial,BuiltIn
+RM,Pave,,IR1,Bnk,AllPub,Corner,Gtl,1Fam,2.5Unf,Gable,CompShg,MetalSd,MetalSd,None,BrkTil,GasA,Ex,Y,SBrkr,TA,Y,,,,ConLw,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,HdBoard,HdBoard,BrkFace,CBlock,GasA,Gd,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,MetalSd,MetalSd,None,CBlock,GasA,Gd,Y,SBrkr,TA,Y,,,Shed,Oth,Abnorml,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RM,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,None,BrkTil,GasA,Ex,Y,SBrkr,TA,N,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,HdBoard,HdBoard,None,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,MnPrv,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,CulDSac,Gtl,1Fam,1Story,Hip,CompShg,HdBoard,HdBoard,BrkFace,CBlock,GasA,Gd,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RH,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,HdBoard,HdBoard,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,MnPrv,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,MetalSd,MetalSd,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,CulDSac,Gtl,1Fam,1Story,Hip,CompShg,VinylSd,VinylSd,Stone,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,New,Partial,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,Wd Sdng,Wd Sdng,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,GdPrv,Shed,WD,Normal,Attchd
+RL,Pave,,IR1,Bnk,AllPub,Inside,Mod,1Fam,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,None,Wood,GasA,Gd,Y,SBrkr,TA,Y,,,,WD,Normal,Basment
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,MetalSd,MetalSd,None,CBlock,GasA,TA,Y,SBrkr,TA,N,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,CulDSac,Gtl,1Fam,SLvl,Gable,CompShg,VinylSd,VinylSd,None,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,SFoyer,Gable,CompShg,MetalSd,MetalSd,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,MnPrv,,WD,Normal,
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,Duplex,1.5Fin,Gable,CompShg,VinylSd,VinylSd,None,Slab,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+FV,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,CemntBd,CmentBd,Stone,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,New,Partial,Attchd
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,AsbShng,AsbShng,None,Slab,GasA,Gd,N,SBrkr,TA,N,,,,WD,Normal,
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,Twnhs,2Story,Gable,CompShg,CemntBd,CmentBd,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,N,,,,WD,Abnorml,
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Abnorml,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,HdBoard,HdBoard,None,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,BrkFace,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,GdWo,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,Wd Sdng,Wd Sdng,BrkFace,CBlock,GasA,TA,N,FuseA,TA,Y,,MnPrv,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,SLvl,Hip,CompShg,VinylSd,VinylSd,BrkFace,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,MnWw,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,CulDSac,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,Stone,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,BuiltIn
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,CBlock,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,TwnhsE,1Story,Hip,CompShg,MetalSd,MetalSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Ex,Y,,,,New,Partial,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,SLvl,Hip,CompShg,BrkFace,HdBoard,None,CBlock,GasA,Gd,Y,SBrkr,TA,Y,,GdWo,,WD,Normal,Basment
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,Duplex,1.5Fin,Shed,CompShg,Plywood,Plywood,None,CBlock,GasA,Ex,Y,SBrkr,TA,N,,,Gar2,WD,Normal,BuiltIn
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,Duplex,SLvl,Hip,CompShg,Wd Sdng,Wd Sdng,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,Y,,GdWo,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,FR2,Gtl,Duplex,1Story,Gable,CompShg,HdBoard,HdBoard,None,Slab,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,Plywood,Plywood,BrkFace,CBlock,GasA,Fa,Y,SBrkr,TA,Y,,MnPrv,,COD,Abnorml,Attchd
+RH,Pave,,Reg,Bnk,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,MetalSd,MetalSd,None,PConc,GasA,TA,N,FuseA,TA,N,,,,WD,Abnorml,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,Wd Sdng,Wd Sdng,None,BrkTil,GasA,Gd,Y,FuseF,TA,N,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,Twnhs,2Story,Gable,CompShg,VinylSd,Wd Shng,Stone,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,BuiltIn
+RL,Pave,,IR2,Lvl,AllPub,FR2,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,BuiltIn
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Abnorml,
+RL,Pave,,IR1,HLS,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Ex,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,VinylSd,VinylSd,Stone,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,New,Partial,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,SFoyer,Gable,CompShg,Plywood,Plywood,BrkFace,CBlock,GasA,TA,Y,SBrkr,Gd,Y,,MnPrv,,WD,Family,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,,PConc,GasA,Ex,Y,SBrkr,Ex,Y,,,,New,Partial,Attchd
+RL,Pave,,IR1,HLS,AllPub,Corner,Mod,1Fam,2Story,Gable,CompShg,BrkFace,Stucco,None,PConc,GasA,Fa,Y,SBrkr,Gd,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,SLvl,Hip,CompShg,VinylSd,VinylSd,BrkFace,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Abnorml,BuiltIn
+FV,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,New,Partial,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,SLvl,Gable,CompShg,HdBoard,HdBoard,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RM,Pave,Grvl,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2.5Unf,Gable,CompShg,AsbShng,AsbShng,None,BrkTil,OthW,Fa,N,SBrkr,TA,P,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,MetalSd,MetalSd,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Hip,CompShg,BrkFace,BrkFace,None,CBlock,GasA,Ex,Y,SBrkr,Ex,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,TwnhsE,1Story,Gable,CompShg,VinylSd,Wd Shng,Stone,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,HdBoard,HdBoard,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,GdWo,Shed,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,Wd Sdng,Wd Sdng,None,CBlock,GasA,TA,Y,SBrkr,Gd,Y,,MnPrv,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,Stone,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,BuiltIn
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,None,BrkTil,GasA,TA,Y,FuseA,TA,Y,,,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Hip,CompShg,HdBoard,HdBoard,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,None,PConc,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,SLvl,Gable,CompShg,VinylSd,VinylSd,Stone,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,FR2,Gtl,1Fam,1Story,Gable,CompShg,HdBoard,HdBoard,None,CBlock,GasA,Gd,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR3,Lvl,AllPub,CulDSac,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,BuiltIn
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,MetalSd,MetalSd,None,CBlock,GasA,Gd,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,None,CBlock,GasA,Ex,Y,FuseA,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,Pave,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gambrel,CompShg,Wd Sdng,Wd Sdng,None,PConc,GasA,Ex,Y,FuseA,TA,N,,GdPrv,,WD,Normal,
+RH,Pave,,Reg,Lvl,AllPub,Inside,Gtl,TwnhsE,1Story,Gable,CompShg,MetalSd,MetalSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,COD,Abnorml,Attchd
+FV,Pave,,Reg,Lvl,AllPub,FR3,Gtl,TwnhsE,2Story,Hip,CompShg,MetalSd,MetalSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,
+RM,Pave,,IR1,Bnk,AllPub,Inside,Gtl,2fmCon,2.5Unf,Hip,CompShg,Wd Sdng,Wd Sdng,None,CBlock,GasA,TA,N,FuseF,TA,N,,MnPrv,,WD,Normal,
+RL,Pave,,IR1,HLS,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,Stucco,CmentBd,None,PConc,GasA,Ex,Y,SBrkr,Ex,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Mod,1Fam,1.5Fin,Gable,CompShg,Stucco,Stucco,BrkFace,CBlock,GasA,Ex,Y,SBrkr,Gd,Y,,GdWo,,WD,Normal,BuiltIn
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,MetalSd,MetalSd,BrkFace,CBlock,GasW,TA,Y,FuseA,TA,Y,,GdWo,,WD,Normal,Attchd
+RL,Pave,,Reg,Low,AllPub,Inside,Sev,1Fam,1Story,Shed,WdShake,Plywood,Plywood,None,PConc,GasA,TA,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,BrkFace,BrkFace,None,CBlock,GasA,Gd,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,CulDSac,Gtl,1Fam,1Story,Hip,CompShg,HdBoard,Plywood,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,Y,,MnPrv,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,1Fam,SLvl,Gable,CompShg,Plywood,Plywood,BrkFace,CBlock,GasA,Gd,Y,SBrkr,Ex,Y,,GdPrv,,WD,Normal,Basment
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,1.5Fin,Gable,CompShg,Wd Sdng,Wd Shng,None,PConc,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,Duplex,2Story,Gable,Roll,AsbShng,AsbShng,Stone,CBlock,GasA,Gd,Y,FuseA,TA,Y,,,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,CulDSac,Gtl,1Fam,2Story,Gable,CompShg,HdBoard,Plywood,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,CulDSac,Gtl,1Fam,SLvl,Gable,CompShg,HdBoard,HdBoard,BrkFace,CBlock,GasA,Fa,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+C (all),Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,MetalSd,MetalSd,None,CBlock,GasA,TA,Y,FuseA,TA,Y,,,,COD,Abnorml,
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,CulDSac,Gtl,1Fam,1Story,Hip,CompShg,HdBoard,HdBoard,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,HdBoard,HdBoard,None,CBlock,GasA,TA,Y,SBrkr,Gd,Y,,,,WD,Normal,
+RL,Pave,,Reg,Low,AllPub,Corner,Gtl,Duplex,2Story,Mansard,CompShg,MetalSd,Wd Shng,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,Wd Sdng,Wd Shng,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,MetalSd,MetalSd,None,CBlock,GasA,Ex,Y,FuseF,TA,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,HdBoard,HdBoard,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Low,AllPub,Inside,Mod,1Fam,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,BrkCmn,CBlock,GasA,Fa,Y,SBrkr,TA,N,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,TwnhsE,1Story,Gable,CompShg,CemntBd,CmentBd,None,PConc,GasA,Ex,Y,SBrkr,Ex,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,Stone,PConc,GasA,Ex,Y,SBrkr,Ex,Y,,,,New,Partial,BuiltIn
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,1Fam,SLvl,Hip,CompShg,Wd Sdng,HdBoard,BrkFace,PConc,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,Twnhs,2Story,Gable,CompShg,CemntBd,CmentBd,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,
+RM,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,2Story,Gable,CompShg,Wd Sdng,Wd Sdng,None,Stone,GasA,TA,N,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,HdBoard,HdBoard,None,PConc,GasA,TA,Y,SBrkr,TA,Y,,GdWo,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,WdShing,Plywood,None,CBlock,GasA,TA,Y,SBrkr,TA,N,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,HdBoard,HdBoard,BrkFace,CBlock,GasA,Gd,Y,SBrkr,TA,Y,,GdWo,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,MetalSd,MetalSd,BrkFace,CBlock,GasA,Gd,Y,SBrkr,TA,Y,,MnPrv,,WD,Normal,Attchd
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,TwnhsE,SFoyer,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Gd,Y,SBrkr,TA,Y,,,,New,Partial,Basment
+RL,Pave,,IR3,Bnk,AllPub,Corner,Gtl,1Fam,2Story,Hip,ClyTile,Stucco,Stucco,Stone,PConc,GasA,Ex,Y,SBrkr,Ex,Y,Gd,,,New,Partial,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,BrkFace,BrkFace,None,CBlock,GasA,Ex,Y,SBrkr,Gd,Y,,GdPrv,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,CulDSac,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Bnk,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,Wd Sdng,Wd Sdng,None,CBlock,GasA,Fa,Y,SBrkr,Gd,P,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Hip,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,TwnhsE,2Story,Gable,CompShg,VinylSd,VinylSd,Stone,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Hip,CompShg,VinylSd,VinylSd,Stone,PConc,GasA,Ex,Y,SBrkr,Ex,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,TwnhsE,1Story,Gable,CompShg,VinylSd,VinylSd,Stone,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,New,Partial,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,MetalSd,MetalSd,None,CBlock,GasA,Ex,Y,SBrkr,Gd,Y,,GdWo,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,HdBoard,HdBoard,BrkFace,CBlock,GasA,Gd,Y,SBrkr,Gd,Y,,GdWo,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,BrkFace,HdBoard,None,PConc,GasA,TA,Y,SBrkr,Ex,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,New,Partial,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,Wd Sdng,Wd Sdng,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,BuiltIn
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,Wd Sdng,Wd Sdng,None,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,HdBoard,HdBoard,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,Stone,PConc,GasA,Ex,Y,SBrkr,Ex,Y,,,,WD,Normal,Attchd
+FV,Pave,Pave,Reg,Lvl,AllPub,Corner,Gtl,TwnhsE,1Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,New,Partial,Attchd
+RL,Pave,,IR2,Lvl,AllPub,CulDSac,Gtl,1Fam,1Story,Hip,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Bnk,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,Wd Sdng,Wd Sdng,BrkFace,PConc,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,BrkFace,BrkFace,None,CBlock,GasA,Gd,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Hip,CompShg,VinylSd,VinylSd,None,CBlock,Floor,TA,N,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,HdBoard,HdBoard,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,HLS,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,VinylSd,VinylSd,None,CBlock,GasA,Gd,Y,SBrkr,Fa,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,New,Partial,Attchd
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,AsbShng,AsbShng,None,BrkTil,GasA,Fa,N,SBrkr,TA,N,,MnPrv,,WD,Normal,
+RH,Pave,,Reg,Bnk,AllPub,Inside,Mod,1Fam,1Story,Gable,CompShg,MetalSd,MetalSd,None,BrkTil,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,None,CBlock,GasA,Ex,Y,SBrkr,Gd,Y,,MnPrv,,WD,Normal,Attchd
+RM,Pave,Grvl,Reg,Lvl,AllPub,Corner,Gtl,1Fam,1.5Fin,Gable,CompShg,BrkFace,Wd Sdng,None,BrkTil,GasW,Ex,Y,SBrkr,TA,Y,,MnPrv,Shed,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Hip,CompShg,VinylSd,VinylSd,None,PConc,GasA,Gd,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,VinylSd,VinylSd,Stone,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,SLvl,Gable,CompShg,MetalSd,MetalSd,None,CBlock,GasA,Gd,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Mod,1Fam,1Story,Gable,CompShg,MetalSd,MetalSd,None,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,
+RM,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,None,CBlock,GasA,Ex,Y,SBrkr,Gd,Y,,MnPrv,,WD,Normal,
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,TwnhsE,2Story,Gable,CompShg,HdBoard,HdBoard,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,Plywood,Plywood,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,Duplex,1Story,Gable,CompShg,Plywood,Plywood,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,
+RM,Pave,Grvl,IR1,Bnk,AllPub,Corner,Mod,1Fam,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,None,CBlock,Grav,Fa,N,FuseA,Fa,N,,,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,BuiltIn
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Hip,CompShg,MetalSd,MetalSd,None,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,MetalSd,MetalSd,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,GdWo,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Bnk,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,BrkFace,Stone,None,BrkTil,GasA,Gd,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,New,Partial,Attchd
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,MetalSd,MetalSd,None,PConc,GasA,Gd,Y,FuseA,Fa,Y,,,,WD,Normal,
+RL,Pave,,IR2,Lvl,AllPub,CulDSac,Gtl,1Fam,1Story,Hip,CompShg,BrkFace,HdBoard,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,HLS,AllPub,Corner,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,Stone,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,New,Partial,Attchd
+RL,Pave,,IR3,Low,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RM,Pave,Pave,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,MetalSd,MetalSd,None,BrkTil,OthW,Fa,N,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,Duplex,2Story,Gable,CompShg,MetalSd,MetalSd,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,HdBoard,HdBoard,BrkFace,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,MetalSd,MetalSd,None,BrkTil,GasA,TA,Y,SBrkr,TA,N,,,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,CulDSac,Gtl,1Fam,1.5Fin,Hip,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,SLvl,Gable,CompShg,MetalSd,MetalSd,BrkFace,CBlock,GasA,Gd,Y,SBrkr,Gd,Y,,GdPrv,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Gable,CompShg,HdBoard,HdBoard,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,Y,,GdWo,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,CulDSac,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,None,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+FV,Pave,,Reg,Lvl,AllPub,Inside,Gtl,Twnhs,2Story,Gable,CompShg,MetalSd,MetalSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,FR3,Gtl,1Fam,1Story,Hip,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Ex,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,MetalSd,Wd Sdng,None,BrkTil,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,BuiltIn
+RL,Pave,,IR1,Low,AllPub,Inside,Mod,1Fam,1Story,Hip,CompShg,VinylSd,VinylSd,Stone,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,FR2,Gtl,1Fam,1.5Fin,Gable,CompShg,VinylSd,VinylSd,None,BrkTil,GasA,Gd,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,New,Partial,BuiltIn
+FV,Pave,Pave,Reg,Lvl,AllPub,Inside,Gtl,TwnhsE,2Story,Gable,CompShg,MetalSd,MetalSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Abnorml,
+FV,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Abnorml,Attchd
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,TwnhsE,2Story,Gable,CompShg,CemntBd,CmentBd,None,PConc,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,TwnhsE,1Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR2,Lvl,AllPub,FR2,Gtl,1Fam,1Story,Hip,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,1.5Fin,Gable,CompShg,CBlock,CBlock,None,PConc,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,SLvl,Hip,CompShg,AsbShng,AsbShng,None,CBlock,GasA,Gd,Y,SBrkr,Gd,Y,,MnPrv,,WD,Normal,BuiltIn
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Ex,Y,,,,WD,Normal,Attchd
+FV,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,CemntBd,CmentBd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,HLS,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,New,Partial,Attchd
+RL,Pave,,Reg,Bnk,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,None,BrkTil,GasA,TA,N,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,Grvl,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,None,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,Twnhs,2Story,Gable,CompShg,HdBoard,HdBoard,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,SLvl,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Gd,Y,,Gd,Y,,,,WD,Normal,BuiltIn
+RL,Pave,Grvl,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,Stucco,Stucco,None,BrkTil,GasA,TA,N,FuseF,TA,Y,,,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Gable,CompShg,BrkFace,Plywood,None,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RM,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,2Story,Hip,CompShg,Wd Sdng,Wd Sdng,None,BrkTil,GasA,Ex,Y,SBrkr,Gd,N,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,None,BrkTil,GasA,Ex,Y,SBrkr,Gd,N,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,WdShing,Wd Shng,None,BrkTil,GasA,TA,Y,SBrkr,TA,P,,MnPrv,,WD,Normal,
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,VinylSd,VinylSd,None,BrkTil,GasA,Gd,Y,SBrkr,Gd,N,,MnPrv,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,Plywood,Plywood,BrkFace,CBlock,GasA,TA,Y,SBrkr,Gd,Y,Fa,MnPrv,TenC,WD,Normal,Attchd
+RM,Pave,Grvl,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,Stucco,Stucco,None,BrkTil,GasW,TA,N,SBrkr,Gd,Y,,GdWo,,CWD,Family,
+RL,Pave,,IR1,HLS,AllPub,CulDSac,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,Stone,PConc,GasA,Ex,Y,SBrkr,Ex,Y,,,,WD,Normal,Attchd
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,None,BrkTil,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,Duplex,1Story,Gable,CompShg,Plywood,Plywood,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,SFoyer,Gable,CompShg,HdBoard,HdBoard,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,MnWw,,WD,Normal,Attchd
+RM,Pave,Pave,Reg,Lvl,AllPub,Inside,Gtl,2fmCon,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,None,BrkTil,GasA,Ex,N,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,TwnhsE,1Story,Hip,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,New,Partial,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Hip,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,BuiltIn
+RL,Pave,,IR1,Bnk,AllPub,Inside,Sev,1Fam,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,None,CBlock,GasA,TA,Y,SBrkr,TA,N,,,,WD,Normal,
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,MetalSd,MetalSd,None,BrkTil,GasA,Ex,Y,SBrkr,TA,N,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,VinylSd,Wd Sdng,None,CBlock,GasA,Gd,Y,FuseA,TA,Y,,GdPrv,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,WdShing,Wd Shng,None,BrkTil,GasA,Ex,Y,SBrkr,Gd,Y,,MnPrv,,WD,Normal,
+RM,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,1.5Fin,Gable,CompShg,WdShing,Wd Shng,None,BrkTil,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,BuiltIn
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,New,Partial,Attchd
+RL,Pave,,IR1,Lvl,AllPub,CulDSac,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,Stone,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,Grvl,Reg,Lvl,AllPub,Corner,Gtl,1Fam,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,None,PConc,GasA,TA,Y,SBrkr,TA,Y,,MnPrv,,WD,Family,
+RM,Pave,,IR1,HLS,AllPub,Inside,Mod,TwnhsE,1Story,Hip,CompShg,CemntBd,CmentBd,Stone,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,SFoyer,Gable,CompShg,HdBoard,Wd Shng,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,MnPrv,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Gable,CompShg,HdBoard,Plywood,None,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,MnPrv,,WD,Normal,
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,CBlock,GasA,Gd,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,CulDSac,Gtl,1Fam,2Story,Gable,CompShg,Plywood,Plywood,BrkFace,CBlock,GasA,Gd,Y,SBrkr,TA,Y,,MnPrv,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,VinylSd,VinylSd,None,CBlock,GasA,Ex,Y,SBrkr,TA,Y,,MnPrv,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,Duplex,1Story,Gable,CompShg,BrkFace,Stone,None,Slab,Wall,Fa,N,FuseF,TA,Y,,,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,Stone,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,COD,Abnorml,Attchd
+RL,Pave,Pave,Reg,Bnk,AllPub,Inside,Gtl,1Fam,1.5Fin,Gambrel,CompShg,Wd Sdng,Wd Sdng,None,BrkTil,GasA,Gd,Y,SBrkr,Gd,N,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,TwnhsE,1Story,Hip,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,2fmCon,2Story,Gable,CompShg,VinylSd,AsbShng,None,PConc,GasA,Gd,Y,SBrkr,TA,N,,,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,HdBoard,HdBoard,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,COD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,Plywood,Plywood,BrkFace,CBlock,GasA,Gd,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,2Story,Gable,CompShg,HdBoard,HdBoard,BrkFace,CBlock,GasA,Gd,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,TwnhsE,1Story,Gable,CompShg,Plywood,Plywood,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,TwnhsE,1Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Lvl,AllPub,CulDSac,Gtl,1Fam,SLvl,Flat,Tar&Grv,Plywood,Plywood,None,CBlock,GasA,TA,Y,SBrkr,Gd,Y,Gd,GdPrv,,WD,Alloca,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,HdBoard,HdBoard,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,GdWo,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,HdBoard,HdBoard,Stone,CBlock,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,Grvl,Reg,Bnk,AllPub,Inside,Gtl,1Fam,1.5Fin,Gable,CompShg,MetalSd,MetalSd,None,CBlock,GasA,TA,Y,FuseA,TA,Y,,,,WD,Normal,Attchd
+RM,Pave,,Reg,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Gable,CompShg,MetalSd,MetalSd,Stone,CBlock,GasA,TA,Y,SBrkr,Gd,Y,,MnPrv,,WD,Abnorml,Attchd
+RL,Pave,,IR1,Lvl,AllPub,Corner,Gtl,1Fam,1Story,Gable,CompShg,MetalSd,MetalSd,BrkFace,CBlock,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR3,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,BuiltIn
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,TwnhsE,1Story,Gable,CompShg,Plywood,Plywood,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,Grvl,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,None,BrkTil,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Low,AllPub,Inside,Mod,1Fam,1Story,Gable,CompShg,BrkFace,BrkFace,None,CBlock,GasA,Fa,Y,SBrkr,TA,P,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,BrkFace,CBlock,GasA,TA,Y,SBrkr,Gd,Y,,GdPrv,,COD,Abnorml,Attchd
+RL,Pave,,Reg,Lvl,AllPub,FR2,Gtl,1Fam,1Story,Gable,CompShg,HdBoard,HdBoard,None,PConc,GasA,TA,Y,SBrkr,TA,Y,,GdWo,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,FR2,Gtl,1Fam,1Story,Hip,CompShg,VinylSd,VinylSd,Stone,PConc,GasA,Ex,Y,SBrkr,Ex,Y,,,,New,Partial,Attchd
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,MetalSd,MetalSd,None,CBlock,GasA,TA,Y,FuseA,TA,Y,,MnPrv,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,SLvl,Hip,CompShg,HdBoard,HdBoard,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,IR1,Bnk,AllPub,Inside,Mod,1Fam,2.5Fin,Gable,CompShg,MetalSd,MetalSd,None,BrkTil,GasA,Fa,Y,SBrkr,TA,Y,,,,WD,Normal,
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,TwnhsE,1Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+FV,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,Stone,PConc,GasA,Ex,Y,SBrkr,Ex,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1.5Unf,Gable,CompShg,Wd Sdng,Wd Sdng,None,BrkTil,Grav,Fa,N,FuseF,Fa,P,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,FR2,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,SFoyer,Gable,CompShg,VinylSd,VinylSd,None,CBlock,GasA,Gd,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,IR1,Lvl,AllPub,CulDSac,Gtl,1Fam,1Story,Gable,CompShg,HdBoard,HdBoard,BrkFace,CBlock,GasA,TA,Y,SBrkr,TA,P,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,MetalSd,HdBoard,None,CBlock,GasA,Gd,N,SBrkr,TA,Y,,GdWo,,WD,Normal,
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,Twnhs,SFoyer,Gable,CompShg,CemntBd,CmentBd,None,CBlock,GasA,Ex,Y,SBrkr,Ex,Y,,,,WD,Abnorml,
+RL,Pave,,Reg,Lvl,AllPub,FR2,Gtl,Duplex,2Story,Gable,CompShg,VinylSd,VinylSd,None,CBlock,GasA,TA,Y,SBrkr,TA,Y,,,,WD,Normal,
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,CemntBd,CmentBd,Stone,PConc,GasA,Ex,Y,SBrkr,Ex,Y,,,,New,Partial,Attchd
+RM,Pave,,Reg,Lvl,AllPub,Inside,Gtl,TwnhsE,SLvl,Gable,CompShg,VinylSd,VinylSd,BrkFace,PConc,GasA,Gd,Y,SBrkr,TA,Y,,,,WD,Normal,Basment
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Abnorml,
+FV,Pave,Pave,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,None,PConc,GasA,Ex,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,Plywood,Plywood,Stone,CBlock,GasA,TA,Y,SBrkr,TA,Y,,MnPrv,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,2Story,Gable,CompShg,CemntBd,CmentBd,None,Stone,GasA,Ex,Y,SBrkr,Gd,Y,,GdPrv,Shed,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Hip,CompShg,MetalSd,MetalSd,None,CBlock,GasA,Gd,Y,FuseA,Gd,Y,,,,WD,Normal,Attchd
+RL,Pave,,Reg,Lvl,AllPub,Inside,Gtl,1Fam,1Story,Gable,CompShg,HdBoard,HdBoard,None,CBlock,GasA,Gd,Y,SBrkr,TA,Y,,,,WD,Normal,Attchd
